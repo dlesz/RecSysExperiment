@@ -1,3 +1,5 @@
+https://travis-ci.org/dlesz/RecSysExperiment.svg?branch=master
+
 # RS Experiment
 
 This repository is home to the source code implemented for *Interactive Data Visualization for a better understanding of Recommender Systems*, Master Thesis by Dennis Leszkowicz, IT-University of Copenhagen, Denmark (January 2019).
