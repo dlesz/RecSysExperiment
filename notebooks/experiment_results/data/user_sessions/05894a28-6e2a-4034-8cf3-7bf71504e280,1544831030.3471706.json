@@ -1,0 +1,223 @@
+{
+    "username": "05894a28-6e2a-4034-8cf3-7bf71504e280",
+    "ts": "1544831030.3471706",
+    "baseline": "True",
+    "final_profile": "54565",
+    "valid_tags": [
+        "rock",
+        "jazz",
+        "funk",
+        "blues",
+        "alternative"
+    ],
+    "invalid_tags": [],
+    "valid_artists": [
+        "the beatles",
+        "the meters",
+        "motorhead"
+    ],
+    "invalid_artists": [
+        "sly and the family stone",
+        "rival sons"
+    ],
+    "tags_clicks": "1",
+    "artists_clicks": "1",
+    "zero_all_clicks": "0",
+    "boost_up_clicks": "0",
+    "boost_down_clicks": "0",
+    "clear_data_clicks": "0",
+    "plays_row": [
+        "a tribe called quest",
+        "abyssinians",
+        "ac/dc",
+        "al green",
+        "alpha blondy",
+        "alton ellis",
+        "barrington levy",
+        "beastie boys",
+        "black uhuru",
+        "booker t. & the mgs",
+        "delroy wilson",
+        "dj spinna",
+        "dub syndicate",
+        "dusty fingers",
+        "funkadelic",
+        "galactic",
+        "gang starr",
+        "grand puba",
+        "gregory isaacs",
+        "herbie hancock",
+        "israel vibration",
+        "jamiroquai",
+        "jeff beck",
+        "jurassic 5",
+        "karl denson's tiny universe",
+        "los hombres calientes",
+        "mekatelyu",
+        "mike pinto",
+        "miles davis",
+        "mose allison",
+        "muddy waters",
+        "orishas",
+        "phish",
+        "red hot chili peppers",
+        "santana",
+        "snoop dogg",
+        "soap allstars",
+        "steel pulse",
+        "stick figure",
+        "the allman brothers band",
+        "the beatles",
+        "the beatnuts",
+        "the brand new heavies",
+        "the gladiators",
+        "the melodians",
+        "the meters",
+        "third world",
+        "willie bobo",
+        "willie col\u00f3n"
+    ],
+    "plays_data": [
+        "200",
+        "590",
+        "81",
+        "219",
+        "113",
+        "122",
+        "117",
+        "88",
+        "125",
+        "166",
+        "136",
+        "135",
+        "112",
+        "110",
+        "192",
+        "360",
+        "99",
+        "92",
+        "264",
+        "452",
+        "79",
+        "134",
+        "82",
+        "148",
+        "86",
+        "105",
+        "104",
+        "239",
+        "178",
+        "83",
+        "112",
+        "256",
+        "186",
+        "116",
+        "79",
+        "105",
+        "114",
+        "266",
+        "261",
+        "101",
+        "251",
+        "109",
+        "87",
+        "95",
+        "109",
+        "485",
+        "208",
+        "145",
+        "93"
+    ],
+    "recommendations": {
+        "toots and the maytals": [
+            [
+                "1.2370074"
+            ],
+            [
+                "reggae, ska, rocksteady",
+                " <a href=\"https://open.spotify.com/search/results/toots-and-the-maytals\" target=\"_blank\"><i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "grateful dead": [
+            [
+                "1.1654868"
+            ],
+            [
+                "classic rock, psychedelic rock, psychedelic",
+                " <a href=\"https://open.spotify.com/search/results/grateful-dead\" target=\"_blank\"><i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "bob marley": [
+            [
+                "1.1299841"
+            ],
+            [
+                "reggae, roots reggae, bob marley",
+                " <a href=\"https://open.spotify.com/search/results/bob-marley\" target=\"_blank\"><i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "james brown": [
+            [
+                "1.1167257"
+            ],
+            [
+                "funk, soul, rhythm and blues",
+                " <a href=\"https://open.spotify.com/search/results/james-brown\" target=\"_blank\"><i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "jimmy cliff": [
+            [
+                "1.1159074"
+            ],
+            [
+                "reggae, ska, roots reggae",
+                " <a href=\"https://open.spotify.com/search/results/jimmy-cliff\" target=\"_blank\"><i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "burning spear": [
+            [
+                "1.114433"
+            ],
+            [
+                "reggae, roots reggae, dub",
+                " <a href=\"https://open.spotify.com/search/results/burning-spear\" target=\"_blank\"><i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "jackie mittoo": [
+            [
+                "1.0892967"
+            ],
+            [
+                "reggae, ska, rocksteady",
+                " <a href=\"https://open.spotify.com/search/results/jackie-mittoo\" target=\"_blank\"><i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "amy winehouse": [
+            [
+                "1.0728033"
+            ],
+            [
+                "soul, jazz, female vocalists",
+                " <a href=\"https://open.spotify.com/search/results/amy-winehouse\" target=\"_blank\"><i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "curtis mayfield": [
+            [
+                "1.0599545"
+            ],
+            [
+                "soul, funk, 70s",
+                " <a href=\"https://open.spotify.com/search/results/curtis-mayfield\" target=\"_blank\"><i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "peter tosh": [
+            [
+                "1.0577399"
+            ],
+            [
+                "reggae, roots reggae, rasta",
+                " <a href=\"https://open.spotify.com/search/results/peter-tosh\" target=\"_blank\"><i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,10 @@
+sudo: required
+
+services:
+   - docker
+
+script:
+   - sh download_data.sh
+   - docker-compose up -d
+   - docker-compose stop
+

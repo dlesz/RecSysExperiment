@@ -1,0 +1,204 @@
+{
+    "username": "44a624b2-9549-40d1-bcb4-8ef6cc1961cd",
+    "ts": "1544456238.0885088",
+    "baseline": "True",
+    "final_profile": "150082",
+    "valid_tags": [
+        "jazz",
+        "latin",
+        "classical"
+    ],
+    "invalid_tags": [],
+    "valid_artists": "",
+    "invalid_artists": "",
+    "tags_clicks": "2",
+    "artists_clicks": "0",
+    "zero_all_clicks": "0",
+    "boost_up_clicks": "0",
+    "boost_down_clicks": "0",
+    "clear_data_clicks": "1",
+    "plays_row": [
+        "ahmad jamal",
+        "air",
+        "akina nakamori",
+        "anouar brahem",
+        "archie shepp",
+        "barbara",
+        "bill evans",
+        "billie holiday",
+        "bj\u00f6rk",
+        "bobo stenson trio",
+        "brad mehldau",
+        "chick corea",
+        "dead can dance",
+        "eivind aarset",
+        "eliane elias",
+        "erik truffaz",
+        "esbj\u00f6rn svensson trio",
+        "gonzales",
+        "herbie hancock",
+        "jan garbarek",
+        "john coltrane",
+        "kammerflimmer kollektief",
+        "keith jarrett",
+        "madeleine peyroux",
+        "madredeus",
+        "mari boine",
+        "massive attack",
+        "mccoy tyner",
+        "michel petrucciani",
+        "migala",
+        "miles davis",
+        "nils petter molv\u00e6r",
+        "nina simone",
+        "nitin sawhney",
+        "pan\u2022american",
+        "parov stelar",
+        "perry blake",
+        "portishead",
+        "radiohead",
+        "sigur r\u00f3s",
+        "sylvain chauveau",
+        "thelonious monk",
+        "tord gustavsen trio",
+        "vincent gallo"
+    ],
+    "plays_data": [
+        "52",
+        "51",
+        "53",
+        "80",
+        "67",
+        "65",
+        "127",
+        "134",
+        "184",
+        "94",
+        "127",
+        "77",
+        "58",
+        "54",
+        "171",
+        "60",
+        "101",
+        "58",
+        "148",
+        "53",
+        "267",
+        "80",
+        "113",
+        "97",
+        "86",
+        "76",
+        "102",
+        "371",
+        "72",
+        "99",
+        "214",
+        "55",
+        "75",
+        "50",
+        "112",
+        "153",
+        "51",
+        "177",
+        "94",
+        "84",
+        "63",
+        "59",
+        "144",
+        "53"
+    ],
+    "recommendations": {
+        "the cinematic orchestra": [
+            [
+                "1.0677845"
+            ],
+            [
+                "jazz, electronic, chillout",
+                " <a href=\"https://open.spotify.com/search/results/the-cinematic-orchestra\" target=\"_blank\">Listen <i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "chet baker": [
+            [
+                "1.0158865"
+            ],
+            [
+                "jazz, trumpet, cool jazz",
+                " <a href=\"https://open.spotify.com/search/results/chet-baker\" target=\"_blank\">Listen <i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "erik satie": [
+            [
+                "0.9871508"
+            ],
+            [
+                "classical, piano, impressionist",
+                " <a href=\"https://open.spotify.com/search/results/erik-satie\" target=\"_blank\">Listen <i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "charles mingus": [
+            [
+                "0.9866207"
+            ],
+            [
+                "jazz, bebop, bass",
+                " <a href=\"https://open.spotify.com/search/results/charles-mingus\" target=\"_blank\">Listen <i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "avishai cohen": [
+            [
+                "0.97015256"
+            ],
+            [
+                "jazz, contemporary jazz, bass",
+                " <a href=\"https://open.spotify.com/search/results/avishai-cohen\" target=\"_blank\">Listen <i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "cassandra wilson": [
+            [
+                "0.9326389"
+            ],
+            [
+                "jazz, female vocalists, blues",
+                " <a href=\"https://open.spotify.com/search/results/cassandra-wilson\" target=\"_blank\">Listen <i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "nouvelle vague": [
+            [
+                "0.8943097"
+            ],
+            [
+                "bossa nova, french, female vocalists",
+                " <a href=\"https://open.spotify.com/search/results/nouvelle-vague\" target=\"_blank\">Listen <i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "oscar peterson": [
+            [
+                "0.87906384"
+            ],
+            [
+                "jazz, piano, jazz piano",
+                " <a href=\"https://open.spotify.com/search/results/oscar-peterson\" target=\"_blank\">Listen <i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "dave brubeck": [
+            [
+                "0.8626736"
+            ],
+            [
+                "jazz, piano, cool jazz",
+                " <a href=\"https://open.spotify.com/search/results/dave-brubeck\" target=\"_blank\">Listen <i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "moby": [
+            [
+                "0.8597288"
+            ],
+            [
+                "electronic, ambient, chillout",
+                " <a href=\"https://open.spotify.com/search/results/moby\" target=\"_blank\">Listen <i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ]
+    }
+}

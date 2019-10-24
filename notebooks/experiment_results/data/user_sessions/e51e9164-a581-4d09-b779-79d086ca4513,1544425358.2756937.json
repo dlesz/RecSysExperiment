@@ -1,0 +1,241 @@
+{
+    "username": "e51e9164-a581-4d09-b779-79d086ca4513",
+    "ts": "1544425358.2756937",
+    "baseline": "True",
+    "final_profile": "72685",
+    "valid_tags": "",
+    "invalid_tags": "",
+    "valid_artists": [
+        "parkway drive",
+        "eminem"
+    ],
+    "invalid_artists": [],
+    "tags_clicks": "0",
+    "artists_clicks": "1",
+    "zero_all_clicks": "0",
+    "boost_up_clicks": "0",
+    "boost_down_clicks": "0",
+    "clear_data_clicks": "0",
+    "plays_row": [
+        "+44",
+        "32 leaves",
+        "36 crazyfists",
+        "a day to remember",
+        "afi",
+        "all shall perish",
+        "alter bridge",
+        "art of dying",
+        "as i lay dying",
+        "biohazard",
+        "blink-182",
+        "born from pain",
+        "bring me the horizon",
+        "bushido",
+        "caliban",
+        "callej\u00f3n",
+        "chamillionaire",
+        "death",
+        "disciple",
+        "dmx",
+        "drake ft. kanye west, lil wayne & eminem",
+        "element eighty",
+        "eminem",
+        "emmure",
+        "evergreen terrace",
+        "everybody gets hurt",
+        "fat joe",
+        "favorite",
+        "foo fighters",
+        "fuel",
+        "hatebreed",
+        "hoobastank",
+        "i killed the prom queen",
+        "i set my friends on fire",
+        "incubus",
+        "irate",
+        "iwrestledabearonce",
+        "juelz santana",
+        "k.i.z.",
+        "kid cudi",
+        "killswitch engage",
+        "kutless",
+        "lil' wayne",
+        "limp bizkit",
+        "linkin park",
+        "motion city soundtrack",
+        "nj bloodline",
+        "pantheon",
+        "papa roach",
+        "parkway drive",
+        "rage against the machine",
+        "rich boy",
+        "rise against",
+        "slipknot",
+        "soulja boy",
+        "story of the year",
+        "suicide silence",
+        "t.i.",
+        "thousand foot krutch",
+        "travis barker",
+        "trv$djam",
+        "war from a harlots mouth",
+        "young jeezy"
+    ],
+    "plays_data": [
+        "14",
+        "10",
+        "8",
+        "1798",
+        "82",
+        "8",
+        "25",
+        "14",
+        "31",
+        "43",
+        "20",
+        "314",
+        "46",
+        "66",
+        "47",
+        "74",
+        "13",
+        "9",
+        "106",
+        "155",
+        "93",
+        "46",
+        "178",
+        "291",
+        "105",
+        "138",
+        "108",
+        "97",
+        "122",
+        "24",
+        "35",
+        "48",
+        "1596",
+        "99",
+        "122",
+        "67",
+        "127",
+        "61",
+        "16",
+        "54",
+        "42",
+        "8",
+        "63",
+        "161",
+        "86",
+        "75",
+        "11",
+        "10",
+        "132",
+        "322",
+        "22",
+        "82",
+        "22",
+        "152",
+        "31",
+        "25",
+        "100",
+        "11",
+        "23",
+        "176",
+        "548",
+        "46",
+        "62"
+    ],
+    "recommendations": {
+        "august burns red": [
+            [
+                "1.0773767"
+            ],
+            [
+                "metalcore, hardcore, christian metalcore",
+                " <a href=\"https://open.spotify.com/search/results/august-burns-red\" target=\"_blank\">Listen <i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "the devil wears prada": [
+            [
+                "1.0123734"
+            ],
+            [
+                "metalcore, hardcore, screamo",
+                " <a href=\"https://open.spotify.com/search/results/the-devil-wears-prada\" target=\"_blank\">Listen <i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "enter shikari": [
+            [
+                "1.0058173"
+            ],
+            [
+                "post-hardcore, trancecore, hardcore",
+                " <a href=\"https://open.spotify.com/search/results/enter-shikari\" target=\"_blank\">Listen <i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "ill ni\u00f1o": [
+            [
+                "0.9851184"
+            ],
+            [
+                "nu metal, metal, metalcore",
+                " <a href=\"https://open.spotify.com/search/results/ill-ni\u00f1o\" target=\"_blank\">Listen <i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "heaven shall burn": [
+            [
+                "0.9765272"
+            ],
+            [
+                "metalcore, melodic death metal, deathcore",
+                " <a href=\"https://open.spotify.com/search/results/heaven-shall-burn\" target=\"_blank\">Listen <i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "fall out boy": [
+            [
+                "0.9681656"
+            ],
+            [
+                "pop punk, rock, emo",
+                " <a href=\"https://open.spotify.com/search/results/fall-out-boy\" target=\"_blank\">Listen <i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "bury your dead": [
+            [
+                "0.95839626"
+            ],
+            [
+                "hardcore, metalcore, moshcore",
+                " <a href=\"https://open.spotify.com/search/results/bury-your-dead\" target=\"_blank\">Listen <i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "all that remains": [
+            [
+                "0.9478235"
+            ],
+            [
+                "metalcore, melodic death metal, metal",
+                " <a href=\"https://open.spotify.com/search/results/all-that-remains\" target=\"_blank\">Listen <i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "the game": [
+            [
+                "0.9445861"
+            ],
+            [
+                "rap, hip-hop, gangsta rap",
+                " <a href=\"https://open.spotify.com/search/results/the-game\" target=\"_blank\">Listen <i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "atreyu": [
+            [
+                "0.9345832"
+            ],
+            [
+                "metalcore, hardcore, metal",
+                " <a href=\"https://open.spotify.com/search/results/atreyu\" target=\"_blank\">Listen <i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ]
+    }
+}

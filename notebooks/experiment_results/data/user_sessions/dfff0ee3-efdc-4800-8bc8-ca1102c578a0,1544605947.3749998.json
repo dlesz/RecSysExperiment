@@ -1,0 +1,212 @@
+{
+    "username": "dfff0ee3-efdc-4800-8bc8-ca1102c578a0",
+    "ts": "1544605947.3749998",
+    "baseline": "True",
+    "final_profile": "94030",
+    "valid_tags": "",
+    "invalid_tags": "",
+    "valid_artists": [
+        "zeke",
+        "the hives",
+        "green day"
+    ],
+    "invalid_artists": [],
+    "tags_clicks": "0",
+    "artists_clicks": "1",
+    "zero_all_clicks": "0",
+    "boost_up_clicks": "0",
+    "boost_down_clicks": "0",
+    "clear_data_clicks": "0",
+    "plays_row": [
+        "anna ternheim",
+        "arctic monkeys",
+        "babyshambles",
+        "belle and sebastian",
+        "broder daniel",
+        "cornelis vreeswijk",
+        "dirty pretty things",
+        "doktor kosmos",
+        "dolly parton",
+        "ebba gr\u00f6n",
+        "enya",
+        "foo fighters",
+        "franz ferdinand",
+        "green day",
+        "hammerfall",
+        "jens lekman",
+        "jet",
+        "johnossi",
+        "kings of leon",
+        "laleh",
+        "lars winnerb\u00e4ck",
+        "led zeppelin",
+        "mando diao",
+        "manu chao",
+        "marit bergman",
+        "metallica",
+        "nirvana",
+        "oasis",
+        "razorlight",
+        "red hot chili peppers",
+        "regina spektor",
+        "slagsm\u00e5lsklubben",
+        "sugarplum fairy",
+        "the ark",
+        "the beach boys",
+        "the beatles",
+        "the coral",
+        "the hives",
+        "the killers",
+        "the kooks",
+        "the libertines",
+        "the rakes",
+        "the strokes",
+        "the vines",
+        "the white stripes",
+        "tiger lou",
+        "vapnet",
+        "vildsvin"
+    ],
+    "plays_data": [
+        "121",
+        "168",
+        "293",
+        "240",
+        "170",
+        "223",
+        "172",
+        "57",
+        "69",
+        "54",
+        "57",
+        "131",
+        "214",
+        "719",
+        "70",
+        "93",
+        "61",
+        "574",
+        "55",
+        "150",
+        "532",
+        "59",
+        "743",
+        "199",
+        "144",
+        "266",
+        "119",
+        "67",
+        "726",
+        "576",
+        "60",
+        "68",
+        "393",
+        "105",
+        "222",
+        "216",
+        "220",
+        "330",
+        "68",
+        "143",
+        "60",
+        "75",
+        "442",
+        "98",
+        "488",
+        "83",
+        "74",
+        "58"
+    ],
+    "recommendations": {
+        "queen": [
+            [
+                "1.0505421"
+            ],
+            [
+                "classic rock, rock, 80s",
+                " <a href=\"https://open.spotify.com/search/results/queen\" target=\"_blank\"><i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "kent": [
+            [
+                "1.0429688"
+            ],
+            [
+                "swedish, rock, indie",
+                " <a href=\"https://open.spotify.com/search/results/kent\" target=\"_blank\"><i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "coldplay": [
+            [
+                "1.0341854"
+            ],
+            [
+                "rock, alternative, britpop",
+                " <a href=\"https://open.spotify.com/search/results/coldplay\" target=\"_blank\"><i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "h\u00e5kan hellstr\u00f6m": [
+            [
+                "1.0340595"
+            ],
+            [
+                "swedish, pop",
+                " <a href=\"https://open.spotify.com/search/results/h\u00e5kan-hellstr\u00f6m\" target=\"_blank\"><i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "caesars": [
+            [
+                "1.011054"
+            ],
+            [
+                "indie, rock, swedish",
+                " <a href=\"https://open.spotify.com/search/results/caesars\" target=\"_blank\"><i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "muse": [
+            [
+                "1.0072424"
+            ],
+            [
+                "alternative rock, rock, alternative",
+                " <a href=\"https://open.spotify.com/search/results/muse\" target=\"_blank\"><i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "pink floyd": [
+            [
+                "0.9991806"
+            ],
+            [
+                "progressive rock, classic rock, psychedelic rock",
+                " <a href=\"https://open.spotify.com/search/results/pink-floyd\" target=\"_blank\"><i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "hello saferide": [
+            [
+                "0.9890877"
+            ],
+            [
+                "swedish, singer-songwriter, female vocalists",
+                " <a href=\"https://open.spotify.com/search/results/hello-saferide\" target=\"_blank\"><i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "u2": [
+            [
+                "0.9672359"
+            ],
+            [
+                "rock, classic rock, irish",
+                " <a href=\"https://open.spotify.com/search/results/u2\" target=\"_blank\"><i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "johnny cash": [
+            [
+                "0.9631642"
+            ],
+            [
+                "country, folk, singer-songwriter",
+                " <a href=\"https://open.spotify.com/search/results/johnny-cash\" target=\"_blank\"><i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ]
+    }
+}

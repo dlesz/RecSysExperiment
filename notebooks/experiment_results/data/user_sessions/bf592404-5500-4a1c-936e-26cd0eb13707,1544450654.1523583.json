@@ -1,0 +1,203 @@
+{
+    "username": "bf592404-5500-4a1c-936e-26cd0eb13707",
+    "ts": "1544450654.1523583",
+    "baseline": "True",
+    "final_profile": "111512",
+    "valid_tags": [
+        "rock",
+        "electronic",
+        "ambient"
+    ],
+    "invalid_tags": [],
+    "valid_artists": [
+        "igorrr",
+        "lorn"
+    ],
+    "invalid_artists": [
+        ""
+    ],
+    "tags_clicks": "1",
+    "artists_clicks": "1",
+    "zero_all_clicks": "0",
+    "boost_up_clicks": "0",
+    "boost_down_clicks": "0",
+    "clear_data_clicks": "0",
+    "plays_row": [
+        "aborted",
+        "arch enemy",
+        "atheist",
+        "avenged sevenfold",
+        "ayreon",
+        "beck",
+        "betzefer",
+        "bluetech",
+        "bob marley",
+        "carcass",
+        "children of bodom",
+        "darkane",
+        "death",
+        "dimmu borgir",
+        "dream theater",
+        "extreme",
+        "fear factory",
+        "in flames",
+        "incubus",
+        "infected mushroom",
+        "jason mraz",
+        "jimi hendrix",
+        "megadeth",
+        "meshuggah",
+        "metallica",
+        "nevermore",
+        "opeth",
+        "orphaned land",
+        "pantera",
+        "pendulum",
+        "porcupine tree",
+        "salem",
+        "shpongle",
+        "shulman",
+        "soilwork",
+        "sonata arctica",
+        "spiral architect",
+        "sum 41",
+        "symphony x",
+        "system of a down",
+        "the doors"
+    ],
+    "plays_data": [
+        "412",
+        "275",
+        "193",
+        "177",
+        "226",
+        "229",
+        "307",
+        "256",
+        "356",
+        "351",
+        "336",
+        "472",
+        "356",
+        "167",
+        "463",
+        "165",
+        "256",
+        "374",
+        "460",
+        "258",
+        "166",
+        "173",
+        "453",
+        "241",
+        "226",
+        "285",
+        "248",
+        "430",
+        "264",
+        "203",
+        "161",
+        "233",
+        "186",
+        "225",
+        "314",
+        "345",
+        "194",
+        "290",
+        "414",
+        "249",
+        "199"
+    ],
+    "recommendations": {
+        "queen": [
+            [
+                "1.1126424"
+            ],
+            [
+                "classic rock, rock, 80s",
+                " <a href=\"https://open.spotify.com/search/results/queen\" target=\"_blank\">Listen <i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "pink floyd": [
+            [
+                "1.0895785"
+            ],
+            [
+                "progressive rock, classic rock, psychedelic rock",
+                " <a href=\"https://open.spotify.com/search/results/pink-floyd\" target=\"_blank\">Listen <i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "nightwish": [
+            [
+                "1.0728118"
+            ],
+            [
+                "symphonic metal, power metal, gothic metal",
+                " <a href=\"https://open.spotify.com/search/results/nightwish\" target=\"_blank\">Listen <i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "red hot chili peppers": [
+            [
+                "1.0707065"
+            ],
+            [
+                "rock, alternative rock, alternative",
+                " <a href=\"https://open.spotify.com/search/results/red-hot-chili-peppers\" target=\"_blank\">Listen <i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "bloodbath": [
+            [
+                "1.0650342"
+            ],
+            [
+                "death metal, brutal death metal, swedish",
+                " <a href=\"https://open.spotify.com/search/results/bloodbath\" target=\"_blank\">Listen <i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "joe satriani": [
+            [
+                "1.0641857"
+            ],
+            [
+                "guitar virtuoso, instrumental rock, rock",
+                " <a href=\"https://open.spotify.com/search/results/joe-satriani\" target=\"_blank\">Listen <i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "cynic": [
+            [
+                "1.0538006"
+            ],
+            [
+                "progressive metal, technical death metal, progressive death metal",
+                " <a href=\"https://open.spotify.com/search/results/cynic\" target=\"_blank\">Listen <i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "pain of salvation": [
+            [
+                "1.0531065"
+            ],
+            [
+                "progressive metal, progressive rock, metal",
+                " <a href=\"https://open.spotify.com/search/results/pain-of-salvation\" target=\"_blank\">Listen <i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "the beatles": [
+            [
+                "1.0518824"
+            ],
+            [
+                "classic rock, rock, british",
+                " <a href=\"https://open.spotify.com/search/results/the-beatles\" target=\"_blank\">Listen <i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "led zeppelin": [
+            [
+                "1.0421339"
+            ],
+            [
+                "classic rock, rock, hard rock",
+                " <a href=\"https://open.spotify.com/search/results/led-zeppelin\" target=\"_blank\">Listen <i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ]
+    }
+}

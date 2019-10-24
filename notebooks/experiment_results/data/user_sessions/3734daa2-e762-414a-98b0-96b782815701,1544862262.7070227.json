@@ -1,0 +1,212 @@
+{
+    "username": "3734daa2-e762-414a-98b0-96b782815701",
+    "ts": "1544862262.7070227",
+    "baseline": "True",
+    "final_profile": "178369",
+    "valid_tags": "",
+    "invalid_tags": "",
+    "valid_artists": [
+        "opeth",
+        "blink-182",
+        "tool"
+    ],
+    "invalid_artists": [],
+    "tags_clicks": "0",
+    "artists_clicks": "1",
+    "zero_all_clicks": "0",
+    "boost_up_clicks": "0",
+    "boost_down_clicks": "0",
+    "clear_data_clicks": "0",
+    "plays_row": [
+        "65daysofstatic",
+        "agalloch",
+        "alias",
+        "ampere",
+        "aphex twin",
+        "at the drive-in",
+        "big l",
+        "black comedy",
+        "blink-182",
+        "boris",
+        "brand new",
+        "carbon based lifeforms",
+        "converge",
+        "d.r.i.",
+        "damian marley",
+        "deep puddle dynamics",
+        "deftones",
+        "descendents",
+        "despise you",
+        "devin townsend",
+        "flotsam and jetsam",
+        "frank zappa",
+        "genesis",
+        "ice cube",
+        "iced earth",
+        "jeromes dream",
+        "klimt 1918",
+        "lil' wayne",
+        "mastodon",
+        "maudlin of the well",
+        "metallica",
+        "minor threat",
+        "nine inch nails",
+        "nothingface",
+        "opeth",
+        "peter gabriel",
+        "pig destroyer",
+        "pink floyd",
+        "pyotr ilyich tchaikovsky",
+        "sole",
+        "strapping young lad",
+        "susperia",
+        "the beatles",
+        "the fall of troy",
+        "the mars volta",
+        "tool",
+        "u2",
+        "ulver"
+    ],
+    "plays_data": [
+        "77",
+        "100",
+        "129",
+        "77",
+        "289",
+        "151",
+        "96",
+        "123",
+        "139",
+        "90",
+        "250",
+        "82",
+        "115",
+        "329",
+        "92",
+        "73",
+        "299",
+        "156",
+        "111",
+        "108",
+        "100",
+        "115",
+        "86",
+        "102",
+        "78",
+        "205",
+        "126",
+        "176",
+        "92",
+        "100",
+        "329",
+        "119",
+        "206",
+        "93",
+        "204",
+        "95",
+        "118",
+        "109",
+        "113",
+        "200",
+        "116",
+        "473",
+        "124",
+        "112",
+        "89",
+        "257",
+        "102",
+        "109"
+    ],
+    "recommendations": {
+        "at the gates": [
+            [
+                "1.1663489"
+            ],
+            [
+                "melodic death metal, death metal, metal",
+                " <a href=\"https://open.spotify.com/search/results/at-the-gates\" target=\"_blank\"><i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "meshuggah": [
+            [
+                "1.1641487"
+            ],
+            [
+                "progressive metal, math metal, technical metal",
+                " <a href=\"https://open.spotify.com/search/results/meshuggah\" target=\"_blank\"><i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "immortal technique": [
+            [
+                "1.1206534"
+            ],
+            [
+                "hip-hop, rap, underground hip-hop",
+                " <a href=\"https://open.spotify.com/search/results/immortal-technique\" target=\"_blank\"><i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "radiohead": [
+            [
+                "1.1071408"
+            ],
+            [
+                "alternative, alternative rock, rock",
+                " <a href=\"https://open.spotify.com/search/results/radiohead\" target=\"_blank\"><i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "matisyahu": [
+            [
+                "1.0989212"
+            ],
+            [
+                "reggae, jewish, hip-hop",
+                " <a href=\"https://open.spotify.com/search/results/matisyahu\" target=\"_blank\"><i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "slayer": [
+            [
+                "1.0968488"
+            ],
+            [
+                "thrash metal, metal, speed metal",
+                " <a href=\"https://open.spotify.com/search/results/slayer\" target=\"_blank\"><i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "jedi mind tricks": [
+            [
+                "1.0960374"
+            ],
+            [
+                "hip-hop, underground hip-hop, rap",
+                " <a href=\"https://open.spotify.com/search/results/jedi-mind-tricks\" target=\"_blank\"><i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "gojira": [
+            [
+                "1.0347217"
+            ],
+            [
+                "death metal, progressive metal, progressive death metal",
+                " <a href=\"https://open.spotify.com/search/results/gojira\" target=\"_blank\"><i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "the smashing pumpkins": [
+            [
+                "1.0309968"
+            ],
+            [
+                "alternative rock, rock, alternative",
+                " <a href=\"https://open.spotify.com/search/results/the-smashing-pumpkins\" target=\"_blank\"><i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "sepultura": [
+            [
+                "1.0266763"
+            ],
+            [
+                "thrash metal, metal, death metal",
+                " <a href=\"https://open.spotify.com/search/results/sepultura\" target=\"_blank\"><i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ]
+    }
+}

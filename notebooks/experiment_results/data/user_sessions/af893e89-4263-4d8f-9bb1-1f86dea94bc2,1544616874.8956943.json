@@ -1,0 +1,215 @@
+{
+    "username": "af893e89-4263-4d8f-9bb1-1f86dea94bc2",
+    "ts": "1544616874.8956943",
+    "baseline": "True",
+    "final_profile": "44317",
+    "valid_tags": [
+        "metal",
+        "classical"
+    ],
+    "invalid_tags": [],
+    "valid_artists": [
+        "opeth",
+        "alice in chains",
+        "overkill",
+        "rolling stones",
+        "blind guardian"
+    ],
+    "invalid_artists": [],
+    "tags_clicks": "2",
+    "artists_clicks": "5",
+    "zero_all_clicks": "0",
+    "boost_up_clicks": "0",
+    "boost_down_clicks": "0",
+    "clear_data_clicks": "1",
+    "plays_row": [
+        "alestorm",
+        "ankor",
+        "ayo",
+        "ayria",
+        "blind guardian",
+        "bloodbath",
+        "b\u00f6hse onkelz",
+        "children of bodom",
+        "dark tranquillity",
+        "death angel",
+        "deichkind",
+        "depeche mode",
+        "despina vandy",
+        "die so fluid",
+        "dying fetus",
+        "echt",
+        "edguy",
+        "eisblut",
+        "exodus",
+        "fuel",
+        "green carnation",
+        "hammerfall",
+        "ihsahn",
+        "in flames",
+        "in this moment",
+        "kataklysm",
+        "legion of the damned",
+        "made of hate",
+        "manu chao",
+        "muse",
+        "nevermore",
+        "novembre",
+        "opeth",
+        "overkill",
+        "six feet under",
+        "slayer",
+        "snow patrol",
+        "sodom",
+        "soko",
+        "sonata arctica",
+        "stratovarius",
+        "sugar minott",
+        "testament",
+        "the cardigans",
+        "the cranberries",
+        "the cure",
+        "tiamat"
+    ],
+    "plays_data": [
+        "233",
+        "174",
+        "49",
+        "39",
+        "660",
+        "447",
+        "25",
+        "246",
+        "89",
+        "226",
+        "127",
+        "25",
+        "100",
+        "33",
+        "35",
+        "26",
+        "94",
+        "33",
+        "52",
+        "48",
+        "28",
+        "112",
+        "288",
+        "37",
+        "30",
+        "71",
+        "27",
+        "99",
+        "30",
+        "27",
+        "524",
+        "44",
+        "1036",
+        "945",
+        "113",
+        "39",
+        "30",
+        "140",
+        "32",
+        "152",
+        "46",
+        "151",
+        "210",
+        "67",
+        "111",
+        "739",
+        "207"
+    ],
+    "recommendations": {
+        "korpiklaani": [
+            [
+                "1.11235"
+            ],
+            [
+                "folk metal, viking metal, finnish",
+                " <a href=\"https://open.spotify.com/search/results/korpiklaani\" target=\"_blank\"><i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "kreator": [
+            [
+                "1.0997111"
+            ],
+            [
+                "thrash metal, metal, german",
+                " <a href=\"https://open.spotify.com/search/results/kreator\" target=\"_blank\"><i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "paradise lost": [
+            [
+                "1.0880871"
+            ],
+            [
+                "gothic metal, doom metal, metal",
+                " <a href=\"https://open.spotify.com/search/results/paradise-lost\" target=\"_blank\"><i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "the beatles": [
+            [
+                "1.0787091"
+            ],
+            [
+                "classic rock, rock, british",
+                " <a href=\"https://open.spotify.com/search/results/the-beatles\" target=\"_blank\"><i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "red hot chili peppers": [
+            [
+                "1.0552537"
+            ],
+            [
+                "rock, alternative rock, alternative",
+                " <a href=\"https://open.spotify.com/search/results/red-hot-chili-peppers\" target=\"_blank\"><i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "cradle of filth": [
+            [
+                "1.0488727"
+            ],
+            [
+                "black metal, symphonic black metal, gothic metal",
+                " <a href=\"https://open.spotify.com/search/results/cradle-of-filth\" target=\"_blank\"><i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "moonspell": [
+            [
+                "1.0460918"
+            ],
+            [
+                "gothic metal, doom metal, black metal",
+                " <a href=\"https://open.spotify.com/search/results/moonspell\" target=\"_blank\"><i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "pink floyd": [
+            [
+                "1.0455234"
+            ],
+            [
+                "progressive rock, classic rock, psychedelic rock",
+                " <a href=\"https://open.spotify.com/search/results/pink-floyd\" target=\"_blank\"><i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "death": [
+            [
+                "1.0403827"
+            ],
+            [
+                "death metal, technical death metal, progressive death metal",
+                " <a href=\"https://open.spotify.com/search/results/death\" target=\"_blank\"><i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "manowar": [
+            [
+                "1.0393782"
+            ],
+            [
+                "heavy metal, power metal, metal",
+                " <a href=\"https://open.spotify.com/search/results/manowar\" target=\"_blank\"><i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ]
+    }
+}

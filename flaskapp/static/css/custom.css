@@ -1,0 +1,98 @@
+.myFooter{
+    background-color: #FFFFFF;
+}
+
+textarea {
+    width:  100%;      /* calc and viewport to the rescue */
+    /* height: calc(100vh - 20px); */
+    height: 200px;
+    resize: vertical;
+}
+
+.h2, h2 {
+      margin-bottom: 15px;
+}
+
+.h3, h3{
+    max-width: 350px;
+}
+
+body {
+    padding-top: 75px;
+}
+
+.modal {
+    position: center;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    overflow: auto;
+
+}
+
+alert-info+tagFilterSucces{
+    margin-top: 40px;
+}
+
+.alert-danger {
+    max-width: 300px;
+    text-decoration: #b92c28;
+
+}
+
+.alert-info {
+    /*max-width: 600px;*/
+
+}
+
+.baseLineSuccess{
+    max-width: 900px;
+
+}
+.footerText {
+    text-align: center;
+
+}
+
+.footer{
+    background-color: #FFFFFF;
+
+}
+
+.tags-img {
+
+}
+
+.tagsCloudBox {
+    max-height: 700px;
+    margin-top:40px;
+}
+
+.top-buffer { margin-top:20px; }
+.first-top-buffer { margin-top:65px; }
+.rec-hard-buffer { margin-top:20px; }
+
+.well{
+    background-color: #FFFFFF;
+}
+
+.filter-box {
+    margin:5px;
+}
+
+.coldStartJumbo {
+    height: 120px;
+    padding: 0px;
+    margin: 0px;
+
+}
+
+.filterArtists {
+    padding: 10px;
+}
+
+.filterTags {
+    padding: 10px;
+
+}

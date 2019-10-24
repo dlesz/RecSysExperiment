@@ -1,0 +1,221 @@
+{
+    "username": "2a6c621a-91d8-43c2-8593-587f93165be0",
+    "ts": "1544628070.4118013",
+    "baseline": "True",
+    "final_profile": "2516",
+    "valid_tags": [
+        "rap",
+        "techno",
+        "indie",
+        "reggae"
+    ],
+    "invalid_tags": [],
+    "valid_artists": "",
+    "invalid_artists": "",
+    "tags_clicks": "1",
+    "artists_clicks": "0",
+    "zero_all_clicks": "0",
+    "boost_up_clicks": "0",
+    "boost_down_clicks": "0",
+    "clear_data_clicks": "0",
+    "plays_row": [
+        "absolute beginner",
+        "akhenaton",
+        "anthony b",
+        "asian dub foundation",
+        "atmosphere",
+        "cake",
+        "chilly & leafy",
+        "damian marley",
+        "dead prez",
+        "desmond dekker",
+        "fattaru",
+        "fiva mc & dj radrum",
+        "fj\u00e4rde v\u00e4rlden",
+        "gang starr",
+        "garmarna",
+        "gentleman",
+        "guru",
+        "hans s\u00f6llner",
+        "harry belafonte",
+        "helt off",
+        "hieroglyphics",
+        "ison & fille",
+        "jedi mind tricks",
+        "junior kelly",
+        "jurassic 5",
+        "ken",
+        "kings of convenience",
+        "kultiration",
+        "manu chao",
+        "mc solaar",
+        "mono & nikitaman",
+        "morgan heritage",
+        "ms. dynamite",
+        "nosliw",
+        "orishas",
+        "outkast",
+        "pst/q",
+        "rjd2",
+        "roots rockers",
+        "samy deluxe",
+        "sergent garcia",
+        "shurikn",
+        "svenska akademien",
+        "tanya stephens",
+        "the beatnuts",
+        "the high & mighty",
+        "tiken jah fakoly",
+        "timbuktu",
+        "total chaos",
+        "triakel",
+        "ugly duckling",
+        "vybz kartel"
+    ],
+    "plays_data": [
+        "275",
+        "480",
+        "262",
+        "455",
+        "204",
+        "565",
+        "271",
+        "392",
+        "566",
+        "263",
+        "222",
+        "428",
+        "575",
+        "580",
+        "820",
+        "423",
+        "534",
+        "225",
+        "208",
+        "404",
+        "251",
+        "555",
+        "335",
+        "881",
+        "369",
+        "206",
+        "310",
+        "1271",
+        "211",
+        "315",
+        "720",
+        "252",
+        "488",
+        "198",
+        "357",
+        "198",
+        "205",
+        "490",
+        "375",
+        "292",
+        "497",
+        "203",
+        "1151",
+        "265",
+        "387",
+        "206",
+        "216",
+        "258",
+        "606",
+        "1270",
+        "357",
+        "236"
+    ],
+    "recommendations": {
+        "sa\u00efan supa crew": [
+            [
+                "1.4837625"
+            ],
+            [
+                "hip-hop, french, rap",
+                " <a href=\"https://open.spotify.com/search/results/sa\u00efan-supa-crew\" target=\"_blank\"><i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "martin jondo": [
+            [
+                "1.3016727"
+            ],
+            [
+                "reggae, german, dancehall",
+                " <a href=\"https://open.spotify.com/search/results/martin-jondo\" target=\"_blank\"><i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "looptroop rockers": [
+            [
+                "1.2657266"
+            ],
+            [
+                "hip-hop, swedish, rap",
+                " <a href=\"https://open.spotify.com/search/results/looptroop-rockers\" target=\"_blank\"><i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "promoe": [
+            [
+                "1.2631133"
+            ],
+            [
+                "hip-hop, swedish, rap",
+                " <a href=\"https://open.spotify.com/search/results/promoe\" target=\"_blank\"><i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "iam": [
+            [
+                "1.260206"
+            ],
+            [
+                "hip-hop, french, rap",
+                " <a href=\"https://open.spotify.com/search/results/iam\" target=\"_blank\"><i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "looptroop": [
+            [
+                "1.2409807"
+            ],
+            [
+                "hip-hop, rap, swedish",
+                " <a href=\"https://open.spotify.com/search/results/looptroop\" target=\"_blank\"><i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "tryo": [
+            [
+                "1.2167661"
+            ],
+            [
+                "reggae, french, chanson francaise",
+                " <a href=\"https://open.spotify.com/search/results/tryo\" target=\"_blank\"><i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "dilated peoples": [
+            [
+                "1.2011418"
+            ],
+            [
+                "hip-hop, rap, underground hip-hop",
+                " <a href=\"https://open.spotify.com/search/results/dilated-peoples\" target=\"_blank\"><i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "nneka": [
+            [
+                "1.1731725"
+            ],
+            [
+                "soul, reggae, neo-soul",
+                " <a href=\"https://open.spotify.com/search/results/nneka\" target=\"_blank\"><i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "beenie man": [
+            [
+                "1.1659712"
+            ],
+            [
+                "dancehall, reggae, ragga",
+                " <a href=\"https://open.spotify.com/search/results/beenie-man\" target=\"_blank\"><i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ]
+    }
+}

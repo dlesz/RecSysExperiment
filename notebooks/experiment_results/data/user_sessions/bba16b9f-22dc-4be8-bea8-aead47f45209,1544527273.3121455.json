@@ -1,0 +1,209 @@
+{
+    "username": "bba16b9f-22dc-4be8-bea8-aead47f45209",
+    "ts": "1544527273.3121455",
+    "baseline": "True",
+    "final_profile": "102886",
+    "valid_tags": "",
+    "invalid_tags": "",
+    "valid_artists": [
+        "the beatles",
+        "tina dickow"
+    ],
+    "invalid_artists": [],
+    "tags_clicks": "0",
+    "artists_clicks": "1",
+    "zero_all_clicks": "0",
+    "boost_up_clicks": "0",
+    "boost_down_clicks": "0",
+    "clear_data_clicks": "0",
+    "plays_row": [
+        "a-ha",
+        "adam carolla",
+        "annie lennox",
+        "barbra streisand",
+        "bruce springsteen",
+        "bryn terfel",
+        "crowded house",
+        "david bowie",
+        "depeche mode",
+        "dixie chicks",
+        "dr",
+        "dr p3",
+        "elton john",
+        "elvis presley",
+        "eurythmics",
+        "foo fighters",
+        "garou",
+        "garth brooks",
+        "george michael",
+        "hans zimmer",
+        "herbert gr\u00f6nemeyer",
+        "il divo",
+        "james blunt",
+        "john williams",
+        "johnny cash",
+        "josh groban",
+        "journey",
+        "kristin chenoweth",
+        "l.o.c.",
+        "lenny kravitz",
+        "madonna",
+        "manic street preachers",
+        "marvin gaye",
+        "michael bubl\u00e9",
+        "monty python",
+        "morten harket",
+        "peter belli",
+        "prince",
+        "rammstein",
+        "stig rossen",
+        "sting",
+        "the beatles",
+        "the four tops",
+        "thomas helmig",
+        "tim mcgraw",
+        "tina dickow",
+        "u2"
+    ],
+    "plays_data": [
+        "93",
+        "47",
+        "43",
+        "64",
+        "69",
+        "56",
+        "70",
+        "87",
+        "54",
+        "55",
+        "50",
+        "109",
+        "77",
+        "46",
+        "40",
+        "47",
+        "69",
+        "67",
+        "47",
+        "74",
+        "128",
+        "235",
+        "57",
+        "37",
+        "52",
+        "67",
+        "54",
+        "70",
+        "77",
+        "41",
+        "52",
+        "53",
+        "59",
+        "147",
+        "53",
+        "70",
+        "45",
+        "57",
+        "131",
+        "55",
+        "56",
+        "82",
+        "73",
+        "45",
+        "49",
+        "81",
+        "349"
+    ],
+    "recommendations": {
+        "robbie williams": [
+            [
+                "1.2507997"
+            ],
+            [
+                "pop, britpop, british",
+                " <a href=\"https://open.spotify.com/search/results/robbie-williams\" target=\"_blank\">Listen <i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "phil collins": [
+            [
+                "1.1016368"
+            ],
+            [
+                "pop, 80s, rock",
+                " <a href=\"https://open.spotify.com/search/results/phil-collins\" target=\"_blank\">Listen <i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "michael jackson": [
+            [
+                "1.0791112"
+            ],
+            [
+                "pop, 80s, dance",
+                " <a href=\"https://open.spotify.com/search/results/michael-jackson\" target=\"_blank\">Listen <i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "queen": [
+            [
+                "1.0521855"
+            ],
+            [
+                "classic rock, rock, 80s",
+                " <a href=\"https://open.spotify.com/search/results/queen\" target=\"_blank\">Listen <i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "bryan adams": [
+            [
+                "1.0367527"
+            ],
+            [
+                "rock, classic rock, 80s",
+                " <a href=\"https://open.spotify.com/search/results/bryan-adams\" target=\"_blank\">Listen <i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "abba": [
+            [
+                "1.0276167"
+            ],
+            [
+                "pop, disco, 70s",
+                " <a href=\"https://open.spotify.com/search/results/abba\" target=\"_blank\">Listen <i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "billy joel": [
+            [
+                "0.9699323"
+            ],
+            [
+                "classic rock, singer-songwriter, rock",
+                " <a href=\"https://open.spotify.com/search/results/billy-joel\" target=\"_blank\">Listen <i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "pet shop boys": [
+            [
+                "0.9658038"
+            ],
+            [
+                "synthpop, 80s, pop",
+                " <a href=\"https://open.spotify.com/search/results/pet-shop-boys\" target=\"_blank\">Listen <i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "r.e.m.": [
+            [
+                "0.96025383"
+            ],
+            [
+                "rock, alternative rock, alternative",
+                " <a href=\"https://open.spotify.com/search/results/r.e.m.\" target=\"_blank\">Listen <i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "peter gabriel": [
+            [
+                "0.95978683"
+            ],
+            [
+                "progressive rock, rock, singer-songwriter",
+                " <a href=\"https://open.spotify.com/search/results/peter-gabriel\" target=\"_blank\">Listen <i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ]
+    }
+}

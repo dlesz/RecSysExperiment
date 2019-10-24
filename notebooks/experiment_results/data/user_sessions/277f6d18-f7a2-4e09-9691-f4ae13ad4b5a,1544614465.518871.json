@@ -1,0 +1,215 @@
+{
+    "username": "277f6d18-f7a2-4e09-9691-f4ae13ad4b5a",
+    "ts": "1544614465.518871",
+    "baseline": "True",
+    "final_profile": "277668",
+    "valid_tags": "",
+    "invalid_tags": "",
+    "valid_artists": [
+        "the libertines",
+        "arab strap"
+    ],
+    "invalid_artists": [],
+    "tags_clicks": "0",
+    "artists_clicks": "3",
+    "zero_all_clicks": "0",
+    "boost_up_clicks": "0",
+    "boost_down_clicks": "0",
+    "clear_data_clicks": "2",
+    "plays_row": [
+        "arab strap",
+        "badly drawn boy",
+        "beirut",
+        "belle and sebastian",
+        "blur",
+        "boards of canada",
+        "bright eyes",
+        "b\u00fclent orta\u00e7gil",
+        "dirty pretty things",
+        "einst\u00fcrzende neubauten",
+        "glasvegas",
+        "grandaddy",
+        "guided by voices",
+        "interpol",
+        "iron & wine",
+        "jens lekman",
+        "joy division",
+        "kate bush",
+        "keren ann",
+        "lisa germano",
+        "low",
+        "modeselektor",
+        "mogwai",
+        "morrissey",
+        "my bloody valentine",
+        "nick cave and the bad seeds",
+        "pixies",
+        "pj harvey",
+        "placebo",
+        "portecho",
+        "primal scream",
+        "radiohead",
+        "regina spektor",
+        "rufus wainwright",
+        "sigur r\u00f3s",
+        "sparklehorse",
+        "tanju okan",
+        "the coral",
+        "the dears",
+        "the field mice",
+        "the knife",
+        "the libertines",
+        "the magnetic fields",
+        "the organ",
+        "the smiths",
+        "the wedding present",
+        "thom yorke",
+        "tori amos",
+        "yann tiersen",
+        "yeah yeah yeahs"
+    ],
+    "plays_data": [
+        "596",
+        "108",
+        "396",
+        "612",
+        "228",
+        "129",
+        "1083",
+        "103",
+        "182",
+        "116",
+        "122",
+        "419",
+        "102",
+        "286",
+        "172",
+        "123",
+        "147",
+        "202",
+        "133",
+        "353",
+        "107",
+        "152",
+        "328",
+        "685",
+        "108",
+        "101",
+        "112",
+        "119",
+        "152",
+        "159",
+        "118",
+        "1367",
+        "141",
+        "103",
+        "407",
+        "106",
+        "144",
+        "127",
+        "99",
+        "166",
+        "124",
+        "621",
+        "109",
+        "247",
+        "1144",
+        "190",
+        "403",
+        "780",
+        "134",
+        "142"
+    ],
+    "recommendations": {
+        "jeff buckley": [
+            [
+                "1.2076329"
+            ],
+            [
+                "singer-songwriter, rock, alternative",
+                " <a href=\"https://open.spotify.com/search/results/jeff-buckley\" target=\"_blank\"><i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "cat power": [
+            [
+                "1.1960927"
+            ],
+            [
+                "indie, female vocalists, singer-songwriter",
+                " <a href=\"https://open.spotify.com/search/results/cat-power\" target=\"_blank\"><i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "blonde redhead": [
+            [
+                "1.1748397"
+            ],
+            [
+                "indie, indie rock, female vocalists",
+                " <a href=\"https://open.spotify.com/search/results/blonde-redhead\" target=\"_blank\"><i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "bat for lashes": [
+            [
+                "1.1744701"
+            ],
+            [
+                "female vocalists, indie, alternative",
+                " <a href=\"https://open.spotify.com/search/results/bat-for-lashes\" target=\"_blank\"><i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "pulp": [
+            [
+                "1.1266034"
+            ],
+            [
+                "britpop, indie, british",
+                " <a href=\"https://open.spotify.com/search/results/pulp\" target=\"_blank\"><i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "elliott smith": [
+            [
+                "1.1155114"
+            ],
+            [
+                "singer-songwriter, indie, folk",
+                " <a href=\"https://open.spotify.com/search/results/elliott-smith\" target=\"_blank\"><i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "suede": [
+            [
+                "1.0910769"
+            ],
+            [
+                "britpop, indie, british",
+                " <a href=\"https://open.spotify.com/search/results/suede\" target=\"_blank\"><i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "sonic youth": [
+            [
+                "1.0653569"
+            ],
+            [
+                "alternative, experimental, post-punk",
+                " <a href=\"https://open.spotify.com/search/results/sonic-youth\" target=\"_blank\"><i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "mazzy star": [
+            [
+                "1.0603414"
+            ],
+            [
+                "dream pop, female vocalists, indie",
+                " <a href=\"https://open.spotify.com/search/results/mazzy-star\" target=\"_blank\"><i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "sufjan stevens": [
+            [
+                "1.0506766"
+            ],
+            [
+                "indie, folk, singer-songwriter",
+                " <a href=\"https://open.spotify.com/search/results/sufjan-stevens\" target=\"_blank\"><i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ]
+    }
+}

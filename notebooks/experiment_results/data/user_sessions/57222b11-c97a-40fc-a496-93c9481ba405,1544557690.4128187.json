@@ -1,0 +1,219 @@
+{
+    "username": "57222b11-c97a-40fc-a496-93c9481ba405",
+    "ts": "1544557690.4128187",
+    "baseline": "True",
+    "final_profile": "331270",
+    "valid_tags": "",
+    "invalid_tags": "",
+    "valid_artists": [
+        "opeth",
+        "alice in chains",
+        "overkill",
+        "amorphis"
+    ],
+    "invalid_artists": [
+        "overkil"
+    ],
+    "tags_clicks": "5",
+    "artists_clicks": "11",
+    "zero_all_clicks": "0",
+    "boost_up_clicks": "0",
+    "boost_down_clicks": "0",
+    "clear_data_clicks": "3",
+    "plays_row": [
+        "alice in chains",
+        "amorphis",
+        "at the gates",
+        "bathory",
+        "behemoth",
+        "black sabbath",
+        "borknagar",
+        "carpathian forest",
+        "cruachan",
+        "dark tranquillity",
+        "deep purple",
+        "dio",
+        "dream theater",
+        "electric wizard",
+        "eluveitie",
+        "enslaved",
+        "fairport convention",
+        "gojira",
+        "in flames",
+        "iron maiden",
+        "jethro tull",
+        "jimi hendrix",
+        "king crimson",
+        "kyuss",
+        "led zeppelin",
+        "lumsk",
+        "marillion",
+        "moonsorrow",
+        "mot\u00f6rhead",
+        "opeth",
+        "orange goblin",
+        "pearl jam",
+        "pink floyd",
+        "rage against the machine",
+        "satyricon",
+        "sigh",
+        "skyforger",
+        "soundgarden",
+        "spiritual beggars",
+        "subway to sally",
+        "suidakra",
+        "the doors",
+        "the rolling stones",
+        "the smashing pumpkins",
+        "the velvet underground",
+        "the yardbirds",
+        "thyrfing",
+        "tool",
+        "ulver",
+        "venom"
+    ],
+    "plays_data": [
+        "1173",
+        "366",
+        "485",
+        "915",
+        "460",
+        "1295",
+        "665",
+        "728",
+        "394",
+        "1263",
+        "530",
+        "465",
+        "640",
+        "597",
+        "561",
+        "894",
+        "566",
+        "431",
+        "859",
+        "620",
+        "1825",
+        "350",
+        "1139",
+        "379",
+        "645",
+        "358",
+        "474",
+        "622",
+        "660",
+        "1308",
+        "485",
+        "1306",
+        "409",
+        "774",
+        "605",
+        "959",
+        "392",
+        "706",
+        "624",
+        "386",
+        "558",
+        "1158",
+        "418",
+        "789",
+        "498",
+        "585",
+        "466",
+        "1060",
+        "403",
+        "368"
+    ],
+    "recommendations": {
+        "cream": [
+            [
+                "1.2300196"
+            ],
+            [
+                "classic rock, blues rock, rock",
+                " <a href=\"https://open.spotify.com/search/results/cream\" target=\"_blank\">Listen <i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "jefferson airplane": [
+            [
+                "1.1639053"
+            ],
+            [
+                "psychedelic rock, classic rock, psychedelic",
+                " <a href=\"https://open.spotify.com/search/results/jefferson-airplane\" target=\"_blank\">Listen <i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "nick drake": [
+            [
+                "1.1376531"
+            ],
+            [
+                "folk, singer-songwriter, acoustic",
+                " <a href=\"https://open.spotify.com/search/results/nick-drake\" target=\"_blank\">Listen <i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "candlemass": [
+            [
+                "1.1128361"
+            ],
+            [
+                "doom metal, traditional doom metal, heavy metal",
+                " <a href=\"https://open.spotify.com/search/results/candlemass\" target=\"_blank\">Listen <i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "skyclad": [
+            [
+                "1.0948588"
+            ],
+            [
+                "folk metal, heavy metal, metal",
+                " <a href=\"https://open.spotify.com/search/results/skyclad\" target=\"_blank\">Listen <i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "thin lizzy": [
+            [
+                "1.0930288"
+            ],
+            [
+                "hard rock, classic rock, rock",
+                " <a href=\"https://open.spotify.com/search/results/thin-lizzy\" target=\"_blank\">Listen <i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "primordial": [
+            [
+                "1.0806651"
+            ],
+            [
+                "black metal, folk metal, pagan metal",
+                " <a href=\"https://open.spotify.com/search/results/primordial\" target=\"_blank\">Listen <i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "in extremo": [
+            [
+                "1.0760428"
+            ],
+            [
+                "folk metal, german, medieval",
+                " <a href=\"https://open.spotify.com/search/results/in-extremo\" target=\"_blank\">Listen <i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "my dying bride": [
+            [
+                "1.0759096"
+            ],
+            [
+                "doom metal, gothic metal, death metal",
+                " <a href=\"https://open.spotify.com/search/results/my-dying-bride\" target=\"_blank\">Listen <i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "blue \u00d6yster cult": [
+            [
+                "1.071095"
+            ],
+            [
+                "classic rock, hard rock, rock",
+                " <a href=\"https://open.spotify.com/search/results/blue-\u00d6yster-cult\" target=\"_blank\">Listen <i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ]
+    }
+}

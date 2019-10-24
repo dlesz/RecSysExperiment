@@ -1,0 +1,213 @@
+{
+    "username": "38039d54-f506-4405-b42c-38086bfe5a17",
+    "ts": "1545144121.5991802",
+    "baseline": "True",
+    "final_profile": "167300",
+    "valid_tags": [
+        "reggae",
+        "dub"
+    ],
+    "invalid_tags": [],
+    "valid_artists": "",
+    "invalid_artists": "",
+    "tags_clicks": "18",
+    "artists_clicks": "0",
+    "zero_all_clicks": "0",
+    "boost_up_clicks": "0",
+    "boost_down_clicks": "0",
+    "clear_data_clicks": "1",
+    "plays_row": [
+        "5nizza",
+        "afro kolektyw",
+        "akurat",
+        "alborosie",
+        "bass medium trinity",
+        "bob dylan",
+        "bob marley",
+        "bob one",
+        "bunny wailer",
+        "burning spear",
+        "cinq g",
+        "daab",
+        "damian marley",
+        "danny elfman",
+        "desarie",
+        "dezarie",
+        "dreadsquad",
+        "dubska",
+        "east west rockers",
+        "eastwest rockers",
+        "el canto del loco",
+        "elephant man",
+        "farben lehre",
+        "gang starr",
+        "gentleman",
+        "gentleman and the far east band",
+        "indios bravos",
+        "jamal",
+        "jim sturgess",
+        "lee \"scratch\" perry",
+        "lilu",
+        "manu chao",
+        "marika",
+        "martin jondo",
+        "matisyahu",
+        "natural dread killaz",
+        "paul anka",
+        "petula clark",
+        "pogodno",
+        "rita marley",
+        "sizzla",
+        "the abyssinians",
+        "the beatles",
+        "the skatalites",
+        "tryo",
+        "turbulence",
+        "vavamuffin",
+        "vespa",
+        "\u0141ona i webber"
+    ],
+    "plays_data": [
+        "110",
+        "166",
+        "380",
+        "769",
+        "74",
+        "100",
+        "440",
+        "294",
+        "89",
+        "60",
+        "130",
+        "134",
+        "245",
+        "106",
+        "55",
+        "133",
+        "234",
+        "99",
+        "382",
+        "400",
+        "95",
+        "224",
+        "97",
+        "105",
+        "815",
+        "200",
+        "167",
+        "426",
+        "104",
+        "139",
+        "92",
+        "146",
+        "196",
+        "246",
+        "111",
+        "349",
+        "315",
+        "163",
+        "133",
+        "55",
+        "110",
+        "108",
+        "438",
+        "91",
+        "206",
+        "220",
+        "327",
+        "58",
+        "54"
+    ],
+    "recommendations": {
+        "[unknown]": [
+            [
+                "1.093375"
+            ],
+            [
+                "mysterious, mistagged artist, unknown",
+                " <a href=\"https://open.spotify.com/search/results/[unknown]\" target=\"_blank\"><i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "perfect": [
+            [
+                "1.0556055"
+            ],
+            [
+                "rock, polish, polish rock",
+                " <a href=\"https://open.spotify.com/search/results/perfect\" target=\"_blank\"><i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "buju banton": [
+            [
+                "1.0248754"
+            ],
+            [
+                "reggae, dancehall, ragga",
+                " <a href=\"https://open.spotify.com/search/results/buju-banton\" target=\"_blank\"><i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "dub incorporation": [
+            [
+                "1.0243373"
+            ],
+            [
+                "reggae, dub, french",
+                " <a href=\"https://open.spotify.com/search/results/dub-incorporation\" target=\"_blank\"><i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "anthony b": [
+            [
+                "0.99292564"
+            ],
+            [
+                "reggae, dancehall, ragga",
+                " <a href=\"https://open.spotify.com/search/results/anthony-b\" target=\"_blank\"><i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "habakuk": [
+            [
+                "0.9905354"
+            ],
+            [
+                "reggae, polish, polish reggae",
+                " <a href=\"https://open.spotify.com/search/results/habakuk\" target=\"_blank\"><i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "paprika korps": [
+            [
+                "0.990522"
+            ],
+            [
+                "reggae, polish, heavy reggae",
+                " <a href=\"https://open.spotify.com/search/results/paprika-korps\" target=\"_blank\"><i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "kult": [
+            [
+                "0.98249483"
+            ],
+            [
+                "rock, polish, alternative",
+                " <a href=\"https://open.spotify.com/search/results/kult\" target=\"_blank\"><i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "amy winehouse": [
+            [
+                "0.975103"
+            ],
+            [
+                "soul, jazz, female vocalists",
+                " <a href=\"https://open.spotify.com/search/results/amy-winehouse\" target=\"_blank\"><i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "t.love": [
+            [
+                "0.97132856"
+            ],
+            [
+                "rock, polish, polish rock",
+                " <a href=\"https://open.spotify.com/search/results/t.love\" target=\"_blank\"><i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ]
+    }
+}

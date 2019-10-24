@@ -1,0 +1,228 @@
+{
+    "username": "86f8599b-76d4-4441-a826-111dba6adef1",
+    "ts": "1544561521.4011316",
+    "baseline": "True",
+    "final_profile": "153884",
+    "valid_tags": [
+        "hip hop",
+        "folk",
+        "urban"
+    ],
+    "invalid_tags": [],
+    "valid_artists": "",
+    "invalid_artists": "",
+    "tags_clicks": "13",
+    "artists_clicks": "0",
+    "zero_all_clicks": "0",
+    "boost_up_clicks": "0",
+    "boost_down_clicks": "0",
+    "clear_data_clicks": "0",
+    "plays_row": [
+        "adam arcuragi",
+        "akron/family",
+        "andrew bird",
+        "balmorhea",
+        "band of horses",
+        "blind melon",
+        "bon iver",
+        "califone",
+        "chairlift",
+        "cocorosie",
+        "counting crows",
+        "devendra banhart",
+        "eddie vedder",
+        "feist",
+        "fiona apple",
+        "flight of the conchords",
+        "goat",
+        "great lake swimmers",
+        "guns n roses",
+        "iron & wine",
+        "jack johnson",
+        "jackson browne",
+        "jeff buckley",
+        "joanna newsom",
+        "josh rouse",
+        "jos\u00e9 gonz\u00e1lez",
+        "ken ray",
+        "little wings",
+        "m. ward",
+        "marcy playground",
+        "midlake",
+        "mirah",
+        "modest mouse",
+        "my morning jacket",
+        "neutral milk hotel",
+        "npr",
+        "operation ivy",
+        "radiohead",
+        "ralfe band",
+        "rancid",
+        "red hot chili peppers",
+        "rotary downs",
+        "rusted root",
+        "shearwater",
+        "spoon",
+        "sufjan stevens",
+        "tapes n tapes",
+        "the books",
+        "the flaming lips",
+        "the onion",
+        "the polyphonic spree",
+        "the raconteurs",
+        "the smashing pumpkins",
+        "the strokes",
+        "the white stripes",
+        "ugly casanova"
+    ],
+    "plays_data": [
+        "48",
+        "213",
+        "55",
+        "93",
+        "50",
+        "75",
+        "77",
+        "53",
+        "76",
+        "139",
+        "265",
+        "476",
+        "63",
+        "98",
+        "55",
+        "86",
+        "54",
+        "68",
+        "116",
+        "154",
+        "74",
+        "65",
+        "109",
+        "180",
+        "117",
+        "60",
+        "60",
+        "50",
+        "94",
+        "52",
+        "84",
+        "55",
+        "598",
+        "88",
+        "57",
+        "396",
+        "62",
+        "108",
+        "93",
+        "182",
+        "50",
+        "119",
+        "76",
+        "59",
+        "52",
+        "312",
+        "138",
+        "96",
+        "47",
+        "70",
+        "136",
+        "82",
+        "54",
+        "66",
+        "102",
+        "79"
+    ],
+    "recommendations": {
+        "clap your hands say yeah": [
+            [
+                "1.2260913"
+            ],
+            [
+                "indie, indie rock, alternative",
+                " <a href=\"https://open.spotify.com/search/results/clap-your-hands-say-yeah\" target=\"_blank\">Listen <i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "okkervil river": [
+            [
+                "1.1443455"
+            ],
+            [
+                "indie, folk, indie rock",
+                " <a href=\"https://open.spotify.com/search/results/okkervil-river\" target=\"_blank\">Listen <i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "elliott smith": [
+            [
+                "1.0772886"
+            ],
+            [
+                "singer-songwriter, indie, folk",
+                " <a href=\"https://open.spotify.com/search/results/elliott-smith\" target=\"_blank\">Listen <i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "beastie boys": [
+            [
+                "1.0469375"
+            ],
+            [
+                "hip-hop, rap, alternative",
+                " <a href=\"https://open.spotify.com/search/results/beastie-boys\" target=\"_blank\">Listen <i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "ray lamontagne": [
+            [
+                "1.041016"
+            ],
+            [
+                "folk, singer-songwriter, acoustic",
+                " <a href=\"https://open.spotify.com/search/results/ray-lamontagne\" target=\"_blank\">Listen <i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "the shins": [
+            [
+                "1.0308552"
+            ],
+            [
+                "indie, indie rock, indie pop",
+                " <a href=\"https://open.spotify.com/search/results/the-shins\" target=\"_blank\">Listen <i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "bright eyes": [
+            [
+                "1.0050453"
+            ],
+            [
+                "indie, singer-songwriter, folk",
+                " <a href=\"https://open.spotify.com/search/results/bright-eyes\" target=\"_blank\">Listen <i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "bob marley": [
+            [
+                "1.0005789"
+            ],
+            [
+                "reggae, roots reggae, bob marley",
+                " <a href=\"https://open.spotify.com/search/results/bob-marley\" target=\"_blank\">Listen <i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "devotchka": [
+            [
+                "0.9963922"
+            ],
+            [
+                "gypsy, folk, indie",
+                " <a href=\"https://open.spotify.com/search/results/devotchka\" target=\"_blank\">Listen <i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "the decemberists": [
+            [
+                "0.9951287"
+            ],
+            [
+                "indie, indie rock, folk",
+                " <a href=\"https://open.spotify.com/search/results/the-decemberists\" target=\"_blank\">Listen <i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ]
+    }
+}

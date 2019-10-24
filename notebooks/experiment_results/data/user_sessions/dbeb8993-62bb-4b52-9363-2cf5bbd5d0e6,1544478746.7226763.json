@@ -1,0 +1,210 @@
+{
+    "username": "dbeb8993-62bb-4b52-9363-2cf5bbd5d0e6",
+    "ts": "1544478746.7226763",
+    "baseline": "True",
+    "final_profile": "74883",
+    "valid_tags": [
+        "shellac",
+        "rock",
+        "hip hop"
+    ],
+    "invalid_tags": [],
+    "valid_artists": "",
+    "invalid_artists": "",
+    "tags_clicks": "2",
+    "artists_clicks": "0",
+    "zero_all_clicks": "0",
+    "boost_up_clicks": "0",
+    "boost_down_clicks": "0",
+    "clear_data_clicks": "0",
+    "plays_row": [
+        "adiemus",
+        "amethystium",
+        "andreas vollenweider",
+        "andy palacio & the garifuna collective",
+        "annie lennox",
+        "aotearoa",
+        "ayub ogada",
+        "billy joel",
+        "bruce hornsby",
+        "bruce hornsby & the range",
+        "che fu",
+        "chris spheeris",
+        "compay segundo",
+        "crowded house",
+        "cusco",
+        "david arkenstone",
+        "deep forest",
+        "dire straits",
+        "eliades ochoa",
+        "elton john",
+        "freddie mercury",
+        "geoffrey oryema",
+        "isma\u00ebl l\u00f4",
+        "kitaro",
+        "ladysmith black mambazo",
+        "lisa lynne",
+        "manecas costa",
+        "matatoa",
+        "medwyn goodall",
+        "mike oldfield",
+        "moana",
+        "mythos",
+        "o-shen",
+        "peter gabriel",
+        "rasha",
+        "samite",
+        "simply red",
+        "sting",
+        "suzanne ciani",
+        "tama waipara",
+        "te vaka",
+        "telek",
+        "the police",
+        "thomas mapfumo",
+        "toto",
+        "vangelis",
+        "vieux diop"
+    ],
+    "plays_data": [
+        "9",
+        "9",
+        "22",
+        "14",
+        "9",
+        "12",
+        "15",
+        "12",
+        "9",
+        "8",
+        "8",
+        "9",
+        "8",
+        "12",
+        "10",
+        "10",
+        "16",
+        "13",
+        "9",
+        "10",
+        "8",
+        "11",
+        "10",
+        "8",
+        "10",
+        "9",
+        "13",
+        "8",
+        "11",
+        "9",
+        "9",
+        "8",
+        "10",
+        "12",
+        "12",
+        "12",
+        "9",
+        "18",
+        "10",
+        "9",
+        "38",
+        "15",
+        "10",
+        "9",
+        "12",
+        "8",
+        "9"
+    ],
+    "recommendations": {
+        "enigma": [
+            [
+                "0.53429973"
+            ],
+            [
+                "new age, ambient, electronic",
+                " <a href=\"https://open.spotify.com/search/results/enigma\" target=\"_blank\">Listen <i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "clannad": [
+            [
+                "0.5153069"
+            ],
+            [
+                "celtic, folk, irish",
+                " <a href=\"https://open.spotify.com/search/results/clannad\" target=\"_blank\">Listen <i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "enya": [
+            [
+                "0.51018775"
+            ],
+            [
+                "new age, celtic, female vocalists",
+                " <a href=\"https://open.spotify.com/search/results/enya\" target=\"_blank\">Listen <i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "phil collins": [
+            [
+                "0.48687536"
+            ],
+            [
+                "pop, 80s, rock",
+                " <a href=\"https://open.spotify.com/search/results/phil-collins\" target=\"_blank\">Listen <i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "genesis": [
+            [
+                "0.47150356"
+            ],
+            [
+                "progressive rock, classic rock, rock",
+                " <a href=\"https://open.spotify.com/search/results/genesis\" target=\"_blank\">Listen <i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "era": [
+            [
+                "0.46418405"
+            ],
+            [
+                "new age, ambient, celtic",
+                " <a href=\"https://open.spotify.com/search/results/era\" target=\"_blank\">Listen <i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "mark knopfler": [
+            [
+                "0.4564885"
+            ],
+            [
+                "rock, classic rock, singer-songwriter",
+                " <a href=\"https://open.spotify.com/search/results/mark-knopfler\" target=\"_blank\">Listen <i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "the alan parsons project": [
+            [
+                "0.4356931"
+            ],
+            [
+                "progressive rock, classic rock, rock",
+                " <a href=\"https://open.spotify.com/search/results/the-alan-parsons-project\" target=\"_blank\">Listen <i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "fleetwood mac": [
+            [
+                "0.43049356"
+            ],
+            [
+                "classic rock, rock, 70s",
+                " <a href=\"https://open.spotify.com/search/results/fleetwood-mac\" target=\"_blank\">Listen <i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "loreena mckennitt": [
+            [
+                "0.42460495"
+            ],
+            [
+                "celtic, folk, new age",
+                " <a href=\"https://open.spotify.com/search/results/loreena-mckennitt\" target=\"_blank\">Listen <i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ]
+    }
+}

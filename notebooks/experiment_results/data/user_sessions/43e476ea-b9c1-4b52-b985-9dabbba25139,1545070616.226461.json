@@ -1,0 +1,222 @@
+{
+    "username": "43e476ea-b9c1-4b52-b985-9dabbba25139",
+    "ts": "1545070616.226461",
+    "baseline": "True",
+    "final_profile": "166581",
+    "valid_tags": [
+        "rap",
+        "hip hop",
+        "hip-hop"
+    ],
+    "invalid_tags": [],
+    "valid_artists": "",
+    "invalid_artists": "",
+    "tags_clicks": "13",
+    "artists_clicks": "0",
+    "zero_all_clicks": "0",
+    "boost_up_clicks": "0",
+    "boost_down_clicks": "0",
+    "clear_data_clicks": "0",
+    "plays_row": [
+        "40 cal",
+        "50 cent",
+        "a tribe called quest",
+        "alicia keys",
+        "az",
+        "beyonc\u00e9",
+        "black milk",
+        "busta rhymes",
+        "camron",
+        "clipse",
+        "destinys child",
+        "dj drama & lil wayne",
+        "eminem",
+        "fabolous",
+        "fall out boy",
+        "freeway",
+        "g-unit",
+        "heatmakerz",
+        "j.r. writer",
+        "jadakiss",
+        "jae millz",
+        "jay-z",
+        "jim jones",
+        "joe budden",
+        "juelz santana",
+        "kanye west",
+        "kelly clarkson",
+        "kid cudi",
+        "little brother",
+        "lloyd banks",
+        "ludacris",
+        "lupe fiasco",
+        "mobb deep",
+        "nas",
+        "ne-yo",
+        "papoose",
+        "prodigy of mobb deep",
+        "rich boy",
+        "rick ross",
+        "royce da 59\"",
+        "s.a.s.",
+        "sa-ra creative partners",
+        "styles p",
+        "t.i.",
+        "the diplomats",
+        "the neptunes",
+        "three days grace",
+        "timbaland",
+        "triple c's",
+        "usher",
+        "wale",
+        "young chris",
+        "young jeezy"
+    ],
+    "plays_data": [
+        "445",
+        "953",
+        "792",
+        "405",
+        "379",
+        "578",
+        "383",
+        "517",
+        "1587",
+        "1234",
+        "489",
+        "502",
+        "437",
+        "755",
+        "370",
+        "486",
+        "540",
+        "797",
+        "1213",
+        "1285",
+        "538",
+        "2812",
+        "568",
+        "2556",
+        "685",
+        "736",
+        "544",
+        "565",
+        "797",
+        "1870",
+        "482",
+        "691",
+        "679",
+        "655",
+        "732",
+        "449",
+        "591",
+        "723",
+        "482",
+        "1051",
+        "409",
+        "377",
+        "754",
+        "538",
+        "1372",
+        "670",
+        "544",
+        "1334",
+        "523",
+        "573",
+        "591",
+        "618",
+        "753"
+    ],
+    "recommendations": {
+        "andre 3000": [
+            [
+                "1.2615697"
+            ],
+            [
+                "hip-hop, rap, funk",
+                " <a href=\"https://open.spotify.com/search/results/andre-3000\" target=\"_blank\"><i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "mariah carey": [
+            [
+                "1.2138517"
+            ],
+            [
+                "pop, rnb, female vocalists",
+                " <a href=\"https://open.spotify.com/search/results/mariah-carey\" target=\"_blank\"><i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "charles hamilton": [
+            [
+                "1.1719888"
+            ],
+            [
+                "hip-hop, rap, new york",
+                " <a href=\"https://open.spotify.com/search/results/charles-hamilton\" target=\"_blank\"><i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "nelly furtado": [
+            [
+                "1.1707196"
+            ],
+            [
+                "pop, female vocalists, canadian",
+                " <a href=\"https://open.spotify.com/search/results/nelly-furtado\" target=\"_blank\"><i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "cam'ron": [
+            [
+                "1.1684862"
+            ],
+            [
+                "hip-hop, rap, dipset",
+                " <a href=\"https://open.spotify.com/search/results/cam'ron\" target=\"_blank\"><i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "lil wayne": [
+            [
+                "1.1489303"
+            ],
+            [
+                "rap, hip-hop, dirty south",
+                " <a href=\"https://open.spotify.com/search/results/lil-wayne\" target=\"_blank\"><i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "2pac": [
+            [
+                "1.1003819"
+            ],
+            [
+                "rap, hip-hop, gangsta rap",
+                " <a href=\"https://open.spotify.com/search/results/2pac\" target=\"_blank\"><i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "trey songz": [
+            [
+                "1.0988252"
+            ],
+            [
+                "rnb, soul, male vocalists",
+                " <a href=\"https://open.spotify.com/search/results/trey-songz\" target=\"_blank\"><i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "twista": [
+            [
+                "1.0962849"
+            ],
+            [
+                "rap, hip-hop, hip hop",
+                " <a href=\"https://open.spotify.com/search/results/twista\" target=\"_blank\"><i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "b.o.b": [
+            [
+                "1.095137"
+            ],
+            [
+                "hip-hop, rap, hip hop",
+                " <a href=\"https://open.spotify.com/search/results/b.o.b\" target=\"_blank\"><i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,210 @@
+{
+    "username": "41eee791-93ef-4b9e-b307-9287488933fa",
+    "ts": "1544537672.1312683",
+    "baseline": "True",
+    "final_profile": "181943",
+    "valid_tags": "",
+    "invalid_tags": "",
+    "valid_artists": [
+        "ben harper",
+        "jack johnson",
+        "jason mraz"
+    ],
+    "invalid_artists": [],
+    "tags_clicks": "0",
+    "artists_clicks": "5",
+    "zero_all_clicks": "0",
+    "boost_up_clicks": "0",
+    "boost_down_clicks": "0",
+    "clear_data_clicks": "0",
+    "plays_row": [
+        "across the universe",
+        "against me!",
+        "amos lee",
+        "amy winehouse",
+        "beastie boys",
+        "beck",
+        "big punisher",
+        "blind melon",
+        "corinne bailey rae",
+        "cymande",
+        "daft punk",
+        "dave matthews band",
+        "donavon frankenreiter",
+        "el presidente",
+        "ella fitzgerald",
+        "girl talk",
+        "howlin wolf",
+        "incubus",
+        "jack johnson",
+        "jamie cullum",
+        "jason mraz",
+        "jay-z",
+        "jimi hendrix",
+        "john mayer",
+        "john mayer trio",
+        "jurassic 5",
+        "justice",
+        "justin timberlake",
+        "kanye west",
+        "lil wayne",
+        "madeleine peyroux",
+        "mark ronson",
+        "matisyahu",
+        "moby",
+        "norah jones",
+        "paramore",
+        "radiohead",
+        "red hot chili peppers",
+        "robin thicke",
+        "stevie wonder",
+        "the black crowes",
+        "the go! team",
+        "the kooks",
+        "the rocket summer",
+        "the roots",
+        "the used",
+        "van morrison"
+    ],
+    "plays_data": [
+        "189",
+        "298",
+        "445",
+        "231",
+        "485",
+        "135",
+        "254",
+        "175",
+        "166",
+        "139",
+        "347",
+        "157",
+        "220",
+        "133",
+        "145",
+        "529",
+        "279",
+        "395",
+        "681",
+        "360",
+        "674",
+        "670",
+        "225",
+        "744",
+        "143",
+        "154",
+        "205",
+        "143",
+        "455",
+        "367",
+        "130",
+        "150",
+        "335",
+        "197",
+        "174",
+        "280",
+        "138",
+        "183",
+        "231",
+        "217",
+        "130",
+        "169",
+        "216",
+        "319",
+        "209",
+        "134",
+        "135"
+    ],
+    "recommendations": {
+        "marvin gaye": [
+            [
+                "1.1668131"
+            ],
+            [
+                "soul, motown, funk",
+                " <a href=\"https://open.spotify.com/search/results/marvin-gaye\" target=\"_blank\">Listen <i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "citizen cope": [
+            [
+                "1.1386559"
+            ],
+            [
+                "indie, alternative, singer-songwriter",
+                " <a href=\"https://open.spotify.com/search/results/citizen-cope\" target=\"_blank\">Listen <i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "feist": [
+            [
+                "1.1280667"
+            ],
+            [
+                "female vocalists, indie, singer-songwriter",
+                " <a href=\"https://open.spotify.com/search/results/feist\" target=\"_blank\">Listen <i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "john legend": [
+            [
+                "1.0830109"
+            ],
+            [
+                "soul, rnb, neo-soul",
+                " <a href=\"https://open.spotify.com/search/results/john-legend\" target=\"_blank\">Listen <i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "lupe fiasco": [
+            [
+                "1.0632278"
+            ],
+            [
+                "hip-hop, rap, hip hop",
+                " <a href=\"https://open.spotify.com/search/results/lupe-fiasco\" target=\"_blank\">Listen <i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "a tribe called quest": [
+            [
+                "1.0617038"
+            ],
+            [
+                "hip-hop, rap, hip hop",
+                " <a href=\"https://open.spotify.com/search/results/a-tribe-called-quest\" target=\"_blank\">Listen <i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "ray lamontagne": [
+            [
+                "1.0508807"
+            ],
+            [
+                "folk, singer-songwriter, acoustic",
+                " <a href=\"https://open.spotify.com/search/results/ray-lamontagne\" target=\"_blank\">Listen <i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "regina spektor": [
+            [
+                "1.0481989"
+            ],
+            [
+                "female vocalists, indie, singer-songwriter",
+                " <a href=\"https://open.spotify.com/search/results/regina-spektor\" target=\"_blank\">Listen <i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "kings of leon": [
+            [
+                "1.0425329"
+            ],
+            [
+                "rock, indie, indie rock",
+                " <a href=\"https://open.spotify.com/search/results/kings-of-leon\" target=\"_blank\">Listen <i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "ben harper": [
+            [
+                "1.0298004"
+            ],
+            [
+                "singer-songwriter, acoustic, folk",
+                " <a href=\"https://open.spotify.com/search/results/ben-harper\" target=\"_blank\">Listen <i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ]
+    }
+}

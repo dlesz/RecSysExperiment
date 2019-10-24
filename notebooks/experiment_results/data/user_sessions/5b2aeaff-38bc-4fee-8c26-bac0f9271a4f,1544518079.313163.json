@@ -1,0 +1,234 @@
+{
+    "username": "5b2aeaff-38bc-4fee-8c26-bac0f9271a4f",
+    "ts": "1544518079.313163",
+    "baseline": "True",
+    "final_profile": "167756",
+    "valid_tags": [
+        "rock",
+        "pop"
+    ],
+    "invalid_tags": [],
+    "valid_artists": [
+        "kim larsen",
+        "arcade fire",
+        "coldplay"
+    ],
+    "invalid_artists": [
+        "dua lipa",
+        "dua lipa",
+        "dua lipa",
+        "carl emil petersen\r\n"
+    ],
+    "tags_clicks": "1",
+    "artists_clicks": "9",
+    "zero_all_clicks": "0",
+    "boost_up_clicks": "0",
+    "boost_down_clicks": "0",
+    "clear_data_clicks": "0",
+    "plays_row": [
+        "2 unlimited",
+        "65daysofstatic",
+        "adele",
+        "arcade fire",
+        "arctic monkeys",
+        "armstrong",
+        "band of horses",
+        "bloc party",
+        "cajun dance party",
+        "coldplay",
+        "crystal castles",
+        "cut copy",
+        "dead disco",
+        "deadmau5",
+        "doves",
+        "duffy",
+        "eluvium",
+        "eric prydz",
+        "errors",
+        "foals",
+        "franz ferdinand",
+        "friendly fires",
+        "gabriella cilmi",
+        "girls aloud",
+        "gnarls barkley",
+        "guillemots",
+        "jay-z",
+        "justin timberlake",
+        "kaiser chiefs",
+        "kanye west",
+        "keane",
+        "klaxons",
+        "larrikin love",
+        "led zeppelin",
+        "michael jackson",
+        "milburn",
+        "mystery jets",
+        "nelly furtado",
+        "oasis",
+        "palladium",
+        "radiohead",
+        "robin s",
+        "sneaky sound system",
+        "the killers",
+        "the last shadow puppets",
+        "the libertines",
+        "the long blondes",
+        "the maccabees",
+        "the national",
+        "the rosie taylor project",
+        "the script",
+        "the ting tings",
+        "trouble over tokyo",
+        "tv on the radio",
+        "tweet"
+    ],
+    "plays_data": [
+        "20",
+        "30",
+        "35",
+        "67",
+        "80",
+        "22",
+        "20",
+        "164",
+        "33",
+        "71",
+        "24",
+        "62",
+        "27",
+        "23",
+        "22",
+        "54",
+        "41",
+        "24",
+        "24",
+        "37",
+        "18",
+        "22",
+        "23",
+        "20",
+        "27",
+        "83",
+        "38",
+        "59",
+        "19",
+        "56",
+        "36",
+        "33",
+        "37",
+        "32",
+        "35",
+        "23",
+        "95",
+        "47",
+        "95",
+        "60",
+        "165",
+        "117",
+        "25",
+        "65",
+        "87",
+        "23",
+        "49",
+        "23",
+        "21",
+        "21",
+        "53",
+        "36",
+        "20",
+        "36",
+        "26"
+    ],
+    "recommendations": {
+        "mgmt": [
+            [
+                "1.2219303"
+            ],
+            [
+                "electronic, indie, psychedelic",
+                " <a href=\"https://open.spotify.com/search/results/mgmt\" target=\"_blank\">Listen <i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "kings of leon": [
+            [
+                "1.1561095"
+            ],
+            [
+                "rock, indie, indie rock",
+                " <a href=\"https://open.spotify.com/search/results/kings-of-leon\" target=\"_blank\">Listen <i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "editors": [
+            [
+                "1.0587262"
+            ],
+            [
+                "indie, indie rock",
+                " <a href=\"https://open.spotify.com/search/results/editors\" target=\"_blank\">Listen <i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "the kooks": [
+            [
+                "1.0563188"
+            ],
+            [
+                "indie, indie rock, british",
+                " <a href=\"https://open.spotify.com/search/results/the-kooks\" target=\"_blank\">Listen <i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "vampire weekend": [
+            [
+                "1.0486308"
+            ],
+            [
+                "indie, indie rock, indie pop",
+                " <a href=\"https://open.spotify.com/search/results/vampire-weekend\" target=\"_blank\">Listen <i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "the strokes": [
+            [
+                "0.9408554"
+            ],
+            [
+                "indie rock, rock, indie",
+                " <a href=\"https://open.spotify.com/search/results/the-strokes\" target=\"_blank\">Listen <i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "justice": [
+            [
+                "0.93945265"
+            ],
+            [
+                "electronic, electro, french",
+                " <a href=\"https://open.spotify.com/search/results/justice\" target=\"_blank\">Listen <i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "snow patrol": [
+            [
+                "0.9206284"
+            ],
+            [
+                "indie, alternative, rock",
+                " <a href=\"https://open.spotify.com/search/results/snow-patrol\" target=\"_blank\">Listen <i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "hot chip": [
+            [
+                "0.89213234"
+            ],
+            [
+                "electronic, indie, electropop",
+                " <a href=\"https://open.spotify.com/search/results/hot-chip\" target=\"_blank\">Listen <i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "amy winehouse": [
+            [
+                "0.8899696"
+            ],
+            [
+                "soul, jazz, female vocalists",
+                " <a href=\"https://open.spotify.com/search/results/amy-winehouse\" target=\"_blank\">Listen <i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ]
+    }
+}

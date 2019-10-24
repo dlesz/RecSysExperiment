@@ -1,0 +1,11 @@
+version: '3'
+services:
+  web:
+    build: .
+    ports:
+     - "6543:6543"
+    depends_on:
+      - redis
+    volumes: ['./flaskapp:/flaskapp']
+  redis:
+    image: redis

@@ -1,0 +1,163 @@
+{
+    "username": "073c9a80-e47d-40dc-a8b5-0b4460199258",
+    "ts": "1544690860.472218",
+    "baseline": "False",
+    "final_profile": "258493",
+    "valid_tags": "",
+    "invalid_tags": "",
+    "valid_artists": [
+        "immortal technique",
+        "necro"
+    ],
+    "invalid_artists": [],
+    "tags_clicks": "0",
+    "artists_clicks": "6",
+    "zero_all_clicks": "1",
+    "boost_up_clicks": "17",
+    "boost_down_clicks": "0",
+    "clear_data_clicks": "2",
+    "plays_row": [
+        "7l & esoteric",
+        "army of the pharaohs",
+        "big left",
+        "busta rhymes",
+        "canibus",
+        "chief kamachi",
+        "circle of tyrants",
+        "david banner",
+        "doap nixon",
+        "fabolous",
+        "fredro starr",
+        "goretex",
+        "heltah skeltah",
+        "ill bill",
+        "immortal technique",
+        "jadakiss",
+        "jedi mind tricks",
+        "king syze",
+        "krec",
+        "la coka nostra",
+        "lil wayne",
+        "m.o.p.",
+        "memphis bleek",
+        "method man",
+        "mr. hyde",
+        "music instructor",
+        "nas",
+        "necro",
+        "non phixion",
+        "obie trice",
+        "onyx",
+        "outerspace",
+        "q-unique",
+        "redman",
+        "reef the lost cauze",
+        "sabac",
+        "sean strange",
+        "sheek louch",
+        "slaine",
+        "snoop dogg",
+        "sticky fingaz",
+        "supr\u00eame ntm",
+        "the game",
+        "vinnie paz"
+    ],
+    "plays_data": [
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "600",
+        "0",
+        "600",
+        "0",
+        "0",
+        "1000",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "1200",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0"
+    ],
+    "recommendations": {
+        "cunninlynguists": [
+            "0.69653516",
+            "hip-hop, underground hip-hop, rap",
+            " <a href=\"https://open.spotify.com/search/results/cunninlynguists\" target=\"_blank\"><i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+        ],
+        "swollen members": [
+            "0.67474637",
+            "hip-hop, rap, hip hop",
+            " <a href=\"https://open.spotify.com/search/results/swollen-members\" target=\"_blank\"><i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+        ],
+        "atmosphere": [
+            "0.67183193",
+            "hip-hop, underground hip-hop, rap",
+            " <a href=\"https://open.spotify.com/search/results/atmosphere\" target=\"_blank\"><i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+        ],
+        "snowgoons": [
+            "0.66996074",
+            "hip-hop, underground hip-hop, rap",
+            " <a href=\"https://open.spotify.com/search/results/snowgoons\" target=\"_blank\"><i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+        ],
+        "wu-tang clan": [
+            "0.65773738",
+            "hip-hop, rap, hip hop",
+            " <a href=\"https://open.spotify.com/search/results/wu-tang-clan\" target=\"_blank\"><i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+        ],
+        "mobb deep": [
+            "0.63816228",
+            "hip-hop, rap, gangsta rap",
+            " <a href=\"https://open.spotify.com/search/results/mobb-deep\" target=\"_blank\"><i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+        ],
+        "dilated peoples": [
+            "0.63108705",
+            "hip-hop, rap, underground hip-hop",
+            " <a href=\"https://open.spotify.com/search/results/dilated-peoples\" target=\"_blank\"><i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+        ],
+        "sage francis": [
+            "0.60629567",
+            "hip-hop, underground hip-hop, rap",
+            " <a href=\"https://open.spotify.com/search/results/sage-francis\" target=\"_blank\"><i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+        ],
+        "aesop rock": [
+            "0.60010476",
+            "hip-hop, underground hip-hop, rap",
+            " <a href=\"https://open.spotify.com/search/results/aesop-rock\" target=\"_blank\"><i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+        ],
+        "gang starr": [
+            "0.59933754",
+            "hip-hop, rap, hip hop",
+            " <a href=\"https://open.spotify.com/search/results/gang-starr\" target=\"_blank\"><i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+        ]
+    }
+}

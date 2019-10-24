@@ -1,0 +1,207 @@
+{
+    "username": "a473c89f-96d8-4201-803a-b870887074f9",
+    "ts": "1544620865.5617905",
+    "baseline": "True",
+    "final_profile": "62323",
+    "valid_tags": [
+        "jazz",
+        "danish",
+        "pop",
+        "pop rock"
+    ],
+    "invalid_tags": [],
+    "valid_artists": "",
+    "invalid_artists": "",
+    "tags_clicks": "1",
+    "artists_clicks": "0",
+    "zero_all_clicks": "0",
+    "boost_up_clicks": "0",
+    "boost_down_clicks": "0",
+    "clear_data_clicks": "0",
+    "plays_row": [
+        "beata przybytek",
+        "brian culbertson",
+        "carolyn dawn johnson",
+        "carrie newcomer",
+        "chant\u00e9 moore",
+        "chim\u00e8ne badi",
+        "cibelle",
+        "cyndi thomson",
+        "c\u00e6cilie norby",
+        "deborah cox",
+        "delta goodrem",
+        "diana krall",
+        "eliane elias",
+        "emilie-claire barlow",
+        "erin boheme",
+        "gabriela anders",
+        "goya",
+        "jacqui dankworth",
+        "jamie o'neal",
+        "jane duboc",
+        "jane monheit",
+        "jazzamor",
+        "jen foster",
+        "jenifer",
+        "joana amendoeira",
+        "kasia klich",
+        "katia guerreiro",
+        "koxie",
+        "leila pinheiro",
+        "madeleine peyroux",
+        "marcus roberts",
+        "mariana aydar",
+        "martina mcbride",
+        "natalia kukulska",
+        "natasha st-pier",
+        "nolwenn leroy",
+        "norah jones",
+        "rachel proctor",
+        "rebecca lynn howard",
+        "rigmor gustafsson",
+        "sarah connor",
+        "stacey kent",
+        "suzy bogguss",
+        "tierney sutton",
+        "vitaa"
+    ],
+    "plays_data": [
+        "25",
+        "35",
+        "38",
+        "36",
+        "50",
+        "24",
+        "26",
+        "30",
+        "59",
+        "87",
+        "23",
+        "31",
+        "77",
+        "38",
+        "55",
+        "96",
+        "25",
+        "94",
+        "48",
+        "23",
+        "23",
+        "23",
+        "26",
+        "22",
+        "35",
+        "23",
+        "35",
+        "42",
+        "23",
+        "38",
+        "82",
+        "40",
+        "44",
+        "75",
+        "64",
+        "23",
+        "70",
+        "27",
+        "39",
+        "29",
+        "41",
+        "50",
+        "147",
+        "63",
+        "41"
+    ],
+    "recommendations": {
+        "katie melua": [
+            [
+                "0.8411823"
+            ],
+            [
+                "jazz, female vocalists, blues",
+                " <a href=\"https://open.spotify.com/search/results/katie-melua\" target=\"_blank\"><i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "lizz wright": [
+            [
+                "0.807675"
+            ],
+            [
+                "jazz, female vocalists, soul",
+                " <a href=\"https://open.spotify.com/search/results/lizz-wright\" target=\"_blank\"><i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "joss stone": [
+            [
+                "0.80471045"
+            ],
+            [
+                "soul, female vocalists, jazz",
+                " <a href=\"https://open.spotify.com/search/results/joss-stone\" target=\"_blank\"><i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "natalie cole": [
+            [
+                "0.7990786"
+            ],
+            [
+                "jazz, female vocalists, soul",
+                " <a href=\"https://open.spotify.com/search/results/natalie-cole\" target=\"_blank\"><i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "ayo": [
+            [
+                "0.7910986"
+            ],
+            [
+                "soul, female vocalists, blues",
+                " <a href=\"https://open.spotify.com/search/results/ayo\" target=\"_blank\"><i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "chris botti": [
+            [
+                "0.7597102"
+            ],
+            [
+                "jazz, smooth jazz, trumpet",
+                " <a href=\"https://open.spotify.com/search/results/chris-botti\" target=\"_blank\"><i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "cassandra wilson": [
+            [
+                "0.7295091"
+            ],
+            [
+                "jazz, female vocalists, blues",
+                " <a href=\"https://open.spotify.com/search/results/cassandra-wilson\" target=\"_blank\"><i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "billie holiday": [
+            [
+                "0.7278337"
+            ],
+            [
+                "jazz, blues, female vocalists",
+                " <a href=\"https://open.spotify.com/search/results/billie-holiday\" target=\"_blank\"><i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "silje nergaard": [
+            [
+                "0.72202486"
+            ],
+            [
+                "jazz, female vocalists, norwegian",
+                " <a href=\"https://open.spotify.com/search/results/silje-nergaard\" target=\"_blank\"><i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "renee olstead": [
+            [
+                "0.71437395"
+            ],
+            [
+                "jazz, female vocalists, vocal jazz",
+                " <a href=\"https://open.spotify.com/search/results/renee-olstead\" target=\"_blank\"><i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ]
+    }
+}

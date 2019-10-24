@@ -1,0 +1,207 @@
+{
+    "username": "f7ae0520-b922-4cfc-b488-31dcf44afdce",
+    "ts": "1544527981.5941536",
+    "baseline": "True",
+    "final_profile": "332897",
+    "valid_tags": [
+        "pop",
+        "love"
+    ],
+    "invalid_tags": [],
+    "valid_artists": [
+        "adele",
+        "tina dickow",
+        "alicia keys"
+    ],
+    "invalid_artists": [],
+    "tags_clicks": "1",
+    "artists_clicks": "9",
+    "zero_all_clicks": "0",
+    "boost_up_clicks": "0",
+    "boost_down_clicks": "0",
+    "clear_data_clicks": "4",
+    "plays_row": [
+        "bassn helen",
+        "boston promenade",
+        "brian mcfadden",
+        "dadshello",
+        "dc talk",
+        "delirious?",
+        "dido",
+        "dream theater",
+        "egotrippi",
+        "el\u00e4kel\u00e4iset",
+        "eric clapton",
+        "frank sinatra",
+        "glen hansard",
+        "guardian",
+        "hillsong united",
+        "jaakko l\u00f6ytty",
+        "jaci velasquez",
+        "james blunt",
+        "jamie cullum",
+        "jari kek\u00e4le - tommi kalenius",
+        "johnny cash",
+        "juha tapio",
+        "katri ylander",
+        "kelly clarkson",
+        "kent",
+        "krystal meyers",
+        "laura malmivaara",
+        "laura pausini",
+        "maria lund",
+        "nightwish",
+        "oslo gospel choir",
+        "patricia kaas",
+        "paul anka",
+        "pekka simojoki",
+        "petra",
+        "pmmp",
+        "rajaton",
+        "robbie williams",
+        "seminaarinm\u00e4en mieslaulajat",
+        "sting",
+        "terapia",
+        "tommi kalenius",
+        "valvomo",
+        "vesa-matti loiri"
+    ],
+    "plays_data": [
+        "18",
+        "22",
+        "39",
+        "26",
+        "13",
+        "290",
+        "77",
+        "13",
+        "59",
+        "9",
+        "20",
+        "60",
+        "13",
+        "51",
+        "16",
+        "62",
+        "45",
+        "131",
+        "85",
+        "73",
+        "66",
+        "116",
+        "10",
+        "59",
+        "10",
+        "89",
+        "29",
+        "9",
+        "17",
+        "42",
+        "87",
+        "9",
+        "46",
+        "18",
+        "42",
+        "20",
+        "103",
+        "14",
+        "14",
+        "10",
+        "15",
+        "35",
+        "10",
+        "15"
+    ],
+    "recommendations": {
+        "elvis presley": [
+            [
+                "0.92873424"
+            ],
+            [
+                "rock n roll, classic rock, rock",
+                " <a href=\"https://open.spotify.com/search/results/elvis-presley\" target=\"_blank\">Listen <i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "[unknown]": [
+            [
+                "0.92689997"
+            ],
+            [
+                "mysterious, mistagged artist, unknown",
+                " <a href=\"https://open.spotify.com/search/results/[unknown]\" target=\"_blank\">Listen <i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "michael w. smith": [
+            [
+                "0.8518566"
+            ],
+            [
+                "christian, worship, contemporary christian",
+                " <a href=\"https://open.spotify.com/search/results/michael-w.-smith\" target=\"_blank\">Listen <i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "hillsong": [
+            [
+                "0.81282794"
+            ],
+            [
+                "christian, worship, hillsong",
+                " <a href=\"https://open.spotify.com/search/results/hillsong\" target=\"_blank\">Listen <i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "norah jones": [
+            [
+                "0.79385114"
+            ],
+            [
+                "jazz, female vocalists, blues",
+                " <a href=\"https://open.spotify.com/search/results/norah-jones\" target=\"_blank\">Listen <i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "casting crowns": [
+            [
+                "0.75680465"
+            ],
+            [
+                "christian, christian rock, worship",
+                " <a href=\"https://open.spotify.com/search/results/casting-crowns\" target=\"_blank\">Listen <i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "abba": [
+            [
+                "0.72923785"
+            ],
+            [
+                "pop, disco, 70s",
+                " <a href=\"https://open.spotify.com/search/results/abba\" target=\"_blank\">Listen <i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "newsboys": [
+            [
+                "0.7257441"
+            ],
+            [
+                "christian, christian rock, rock",
+                " <a href=\"https://open.spotify.com/search/results/newsboys\" target=\"_blank\">Listen <i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "u2": [
+            [
+                "0.7042208"
+            ],
+            [
+                "rock, classic rock, irish",
+                " <a href=\"https://open.spotify.com/search/results/u2\" target=\"_blank\">Listen <i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "avril lavigne": [
+            [
+                "0.7026937"
+            ],
+            [
+                "pop, pop rock, rock",
+                " <a href=\"https://open.spotify.com/search/results/avril-lavigne\" target=\"_blank\">Listen <i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ]
+    }
+}

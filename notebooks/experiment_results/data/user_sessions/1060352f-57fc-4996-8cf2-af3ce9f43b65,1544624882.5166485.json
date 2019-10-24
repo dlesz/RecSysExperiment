@@ -1,0 +1,222 @@
+{
+    "username": "1060352f-57fc-4996-8cf2-af3ce9f43b65",
+    "ts": "1544624882.5166485",
+    "baseline": "True",
+    "final_profile": "141994",
+    "valid_tags": [
+        "rap",
+        "alternative",
+        "rock",
+        "punk"
+    ],
+    "invalid_tags": [],
+    "valid_artists": [
+        "the smiths",
+        "the clash",
+        "reverie",
+        "eminem",
+        "kings of leon",
+        "the libertines"
+    ],
+    "invalid_artists": [],
+    "tags_clicks": "1",
+    "artists_clicks": "1",
+    "zero_all_clicks": "0",
+    "boost_up_clicks": "0",
+    "boost_down_clicks": "0",
+    "clear_data_clicks": "0",
+    "plays_row": [
+        "adem",
+        "arctic monkeys",
+        "art brut",
+        "babyshambles",
+        "binky",
+        "bloc party",
+        "coldplay",
+        "david bowie",
+        "elle milano",
+        "franz ferdinand",
+        "interpol",
+        "kaiser chiefs",
+        "kings of leon",
+        "lily allen",
+        "modest mouse",
+        "morningwood",
+        "muse",
+        "of montreal",
+        "phoenix",
+        "pulp",
+        "razorlight",
+        "regina spektor",
+        "say anything",
+        "scissor sisters",
+        "t. rex",
+        "talking heads",
+        "the awkward stage",
+        "the clash",
+        "the cribs",
+        "the features",
+        "the futureheads",
+        "the happy bullets",
+        "the jessica fletchers",
+        "the kinks",
+        "the kooks",
+        "the libertines",
+        "the rakes",
+        "the redwalls",
+        "the skyflakes",
+        "the smiths",
+        "the streets",
+        "the string quartet",
+        "the strokes",
+        "the subways",
+        "the toy dolls",
+        "the velvet underground",
+        "the who",
+        "violent femmes",
+        "world leader pretend"
+    ],
+    "plays_data": [
+        "120",
+        "255",
+        "442",
+        "430",
+        "90",
+        "80",
+        "188",
+        "137",
+        "72",
+        "112",
+        "238",
+        "77",
+        "649",
+        "68",
+        "70",
+        "66",
+        "122",
+        "117",
+        "68",
+        "107",
+        "102",
+        "170",
+        "87",
+        "92",
+        "140",
+        "74",
+        "91",
+        "246",
+        "144",
+        "75",
+        "273",
+        "83",
+        "110",
+        "264",
+        "70",
+        "1986",
+        "115",
+        "149",
+        "79",
+        "299",
+        "90",
+        "176",
+        "129",
+        "79",
+        "71",
+        "569",
+        "68",
+        "143",
+        "91"
+    ],
+    "recommendations": {
+        "the fratellis": [
+            [
+                "1.1158156"
+            ],
+            [
+                "indie, indie rock, british",
+                " <a href=\"https://open.spotify.com/search/results/the-fratellis\" target=\"_blank\"><i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "the raconteurs": [
+            [
+                "1.0933344"
+            ],
+            [
+                "rock, alternative rock, alternative",
+                " <a href=\"https://open.spotify.com/search/results/the-raconteurs\" target=\"_blank\"><i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "mgmt": [
+            [
+                "1.0825012"
+            ],
+            [
+                "electronic, indie, psychedelic",
+                " <a href=\"https://open.spotify.com/search/results/mgmt\" target=\"_blank\"><i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "vampire weekend": [
+            [
+                "1.0704436"
+            ],
+            [
+                "indie, indie rock, indie pop",
+                " <a href=\"https://open.spotify.com/search/results/vampire-weekend\" target=\"_blank\"><i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "blur": [
+            [
+                "1.069928"
+            ],
+            [
+                "britpop, rock, indie",
+                " <a href=\"https://open.spotify.com/search/results/blur\" target=\"_blank\"><i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "gogol bordello": [
+            [
+                "1.0454222"
+            ],
+            [
+                "gypsy punk, punk, gypsy",
+                " <a href=\"https://open.spotify.com/search/results/gogol-bordello\" target=\"_blank\"><i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "dirty pretty things": [
+            [
+                "1.0294037"
+            ],
+            [
+                "indie, indie rock, british",
+                " <a href=\"https://open.spotify.com/search/results/dirty-pretty-things\" target=\"_blank\"><i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "the white stripes": [
+            [
+                "1.0225518"
+            ],
+            [
+                "rock, alternative, alternative rock",
+                " <a href=\"https://open.spotify.com/search/results/the-white-stripes\" target=\"_blank\"><i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "arcade fire": [
+            [
+                "0.99847186"
+            ],
+            [
+                "indie, indie rock, alternative",
+                " <a href=\"https://open.spotify.com/search/results/arcade-fire\" target=\"_blank\"><i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "yeah yeah yeahs": [
+            [
+                "0.99023557"
+            ],
+            [
+                "indie, indie rock, female vocalists",
+                " <a href=\"https://open.spotify.com/search/results/yeah-yeah-yeahs\" target=\"_blank\"><i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ]
+    }
+}

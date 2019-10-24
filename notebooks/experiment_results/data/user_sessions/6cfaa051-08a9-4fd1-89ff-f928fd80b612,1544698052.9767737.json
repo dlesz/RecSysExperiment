@@ -1,0 +1,233 @@
+{
+    "username": "6cfaa051-08a9-4fd1-89ff-f928fd80b612",
+    "ts": "1544698052.9767737",
+    "baseline": "True",
+    "final_profile": "10796",
+    "valid_tags": "",
+    "invalid_tags": "",
+    "valid_artists": [
+        "the xx",
+        "red hot chili peppers"
+    ],
+    "invalid_artists": [],
+    "tags_clicks": "2",
+    "artists_clicks": "2",
+    "zero_all_clicks": "0",
+    "boost_up_clicks": "0",
+    "boost_down_clicks": "0",
+    "clear_data_clicks": "2",
+    "plays_row": [
+        "ac/dc",
+        "air",
+        "arcade fire",
+        "as in rebekkamaria",
+        "audioslave",
+        "bigbang",
+        "bon iver",
+        "bruce springsteen",
+        "built to spill",
+        "coldplay",
+        "daft punk",
+        "danko jones",
+        "datarock",
+        "eagles of death metal",
+        "erlend \u00d8ye",
+        "foo fighters",
+        "franz ferdinand",
+        "h\u00e5kan hellstr\u00f6m",
+        "jan garbarek",
+        "jarvis cocker",
+        "johnny cash",
+        "justice",
+        "katie melua",
+        "kent",
+        "kings of convenience",
+        "kings of leon",
+        "kleerup",
+        "lars winnerb\u00e4ck",
+        "leonard cohen",
+        "lykke li",
+        "m83",
+        "madrugada",
+        "mgmt",
+        "nine inch nails",
+        "oasis",
+        "okkervil river",
+        "pearl jam",
+        "pink floyd",
+        "pulp",
+        "queens of the stone age",
+        "red hot chili peppers",
+        "ryan adams",
+        "r\u00f6yksopp",
+        "side brok",
+        "the go! team",
+        "the hellacopters",
+        "the hives",
+        "the killers",
+        "the knife",
+        "the smiths",
+        "the xx",
+        "thomas dybdahl",
+        "timbuktu",
+        "tomas andersson wij",
+        "trentem\u00f8ller",
+        "u2",
+        "ugress",
+        "white lies",
+        "yeasayer"
+    ],
+    "plays_data": [
+        "118",
+        "158",
+        "181",
+        "145",
+        "220",
+        "381",
+        "174",
+        "963",
+        "157",
+        "123",
+        "401",
+        "122",
+        "223",
+        "261",
+        "153",
+        "621",
+        "286",
+        "444",
+        "107",
+        "271",
+        "142",
+        "333",
+        "108",
+        "119",
+        "296",
+        "95",
+        "205",
+        "206",
+        "198",
+        "149",
+        "197",
+        "188",
+        "105",
+        "179",
+        "1271",
+        "168",
+        "143",
+        "264",
+        "107",
+        "165",
+        "651",
+        "354",
+        "369",
+        "235",
+        "110",
+        "186",
+        "115",
+        "204",
+        "94",
+        "170",
+        "348",
+        "133",
+        "339",
+        "152",
+        "142",
+        "176",
+        "199",
+        "224",
+        "207"
+    ],
+    "recommendations": {
+        "band of horses": [
+            [
+                "1.278995"
+            ],
+            [
+                "indie, indie rock, alternative",
+                " <a href=\"https://open.spotify.com/search/results/band-of-horses\" target=\"_blank\"><i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "the whitest boy alive": [
+            [
+                "1.1633949"
+            ],
+            [
+                "indie, electronic, indie pop",
+                " <a href=\"https://open.spotify.com/search/results/the-whitest-boy-alive\" target=\"_blank\"><i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "glasvegas": [
+            [
+                "1.1414161"
+            ],
+            [
+                "indie, scottish",
+                " <a href=\"https://open.spotify.com/search/results/glasvegas\" target=\"_blank\"><i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "bob hund": [
+            [
+                "1.1183863"
+            ],
+            [
+                "swedish, indie rock",
+                " <a href=\"https://open.spotify.com/search/results/bob-hund\" target=\"_blank\"><i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "antony and the johnsons": [
+            [
+                "1.10644"
+            ],
+            [
+                "singer-songwriter, indie, alternative",
+                " <a href=\"https://open.spotify.com/search/results/antony-and-the-johnsons\" target=\"_blank\"><i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "familjen": [
+            [
+                "1.0779006"
+            ],
+            [
+                "swedish, electronic",
+                " <a href=\"https://open.spotify.com/search/results/familjen\" target=\"_blank\"><i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "fever ray": [
+            [
+                "1.053335"
+            ],
+            [
+                "electronic, ambient, swedish",
+                " <a href=\"https://open.spotify.com/search/results/fever-ray\" target=\"_blank\"><i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "radiohead": [
+            [
+                "1.0469294"
+            ],
+            [
+                "alternative, alternative rock, rock",
+                " <a href=\"https://open.spotify.com/search/results/radiohead\" target=\"_blank\"><i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "the cure": [
+            [
+                "1.0413393"
+            ],
+            [
+                "new wave, post-punk, alternative",
+                " <a href=\"https://open.spotify.com/search/results/the-cure\" target=\"_blank\"><i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "death cab for cutie": [
+            [
+                "1.0328959"
+            ],
+            [
+                "indie, indie rock, alternative",
+                " <a href=\"https://open.spotify.com/search/results/death-cab-for-cutie\" target=\"_blank\"><i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ]
+    }
+}

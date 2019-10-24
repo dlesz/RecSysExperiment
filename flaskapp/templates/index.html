@@ -1,0 +1,443 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Music Recommender System Experiment</title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href ="{{ url_for('static', filename='css/bootstrap.min.css') }}">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/custom.css') }}">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/loading-bar.css') }}">
+</head>
+
+<body data-spy="scroll" data-target=".navbar" data-offset="50">
+<nav class="navbar navbar-dark bg-dark fixed-top">
+    <!-- Navbar content -->
+    <a class="navbar-brand" href="/">Music Recommender System Experiment</a>
+    <div class="form-group">
+        <button type="button" class="btn btn-outline-info" data-toggle="modal" data-target="#myPopup">Instructions</button>
+        <button type="button" name="submit" class="btn btn-outline-warning" id="privacyBtn">Privacy Policy</button>
+    </div>
+</nav>
+<!-- Grid system START -->
+<!-- FIRST ROW -->
+<div class="container">
+    <!-- Info ROW END -->
+    <!-- WELCOME MESSAGE START-->
+{#             <div class="row top-buffer">#}
+{#                <div class="alert alert-info alert-dismissible fade show welcomeMessage text-center" role="alert" id="welcomeMessage"data-spy="scroll" data-target="#scrollspy-header" data-offset="0" style="overflow: scroll;">#}
+{#                <div class="alert alert-info alert-dismissible fade show welcomeMessage" id="welcomeMessage" style="margin-top: 10px" role="alert">#}
+{#                    Get started by finding a matching music profile. If you want to try both <strong>Option A</strong> and <strong>Option B</strong>, remember to click  <strong>"Clear"</strong> in between#}
+{##}
+{#                    <button type="button" class="close" data-dismiss="alert" aria-label="Close">#}
+{#                        <span aria-hidden="true">&times;</span>#}
+{#                    </button>#}
+{#                </div>#}
+{#        </div>#}
+    <!-- WELCOME BOX END-->
+
+<!-- common alert row START -->
+    <div class="row top-buffer">
+        <!-- success filtering alert START -->
+        <div class="col-md-12 successAlert">
+                {% with errors = get_flashed_messages(category_filter=["success_filter_msg"]) %}
+                    {% if errors %}
+                        <div class="alert-message block-message text-center">
+                            {#                        <a href="index" onclick="$('.alert').hide() ; return false;" class="close" data-dismiss="alert" aria-label="close">&times;</a>#}
+                            {%- for msg in errors %}
+                                <div class="alert alert-success"><Strong>Success! </Strong>{{ msg | safe }}</div>
+                            {% endfor -%}
+                        </div>
+                    {% endif %}
+                {% endwith %}
+        </div>
+        <!-- success filtering alert END -->
+    <!-- success skip alert START -->
+        <div class="col-md-12 successAlert">
+                {% with errors = get_flashed_messages(category_filter=["skip_success_msg"]) %}
+                    {% if errors %}
+                        <div class="alert-message block-message text-center">
+                            {#                        <a href="index" onclick="$('.alert').hide() ; return false;" class="close" data-dismiss="alert" aria-label="close">&times;</a>#}
+                            {%- for msg in errors %}
+                                <div class="alert alert-success">{{ msg | safe }}</div>
+                            {% endfor -%}
+                        </div>
+                    {% endif %}
+                {% endwith %}
+        </div>
+        <!-- success skip alert END -->
+
+        <!-- noMoreProfilesAlert START -->
+        <div class="col-md-12 noMoreProfilesAlert">
+                {% with errors = get_flashed_messages(category_filter=["pool_empty_msg"]) %}
+                    {% if errors %}
+                        <div class="alert-message block-message error text-center">
+                            {#                        <a href="index" onclick="$('.alert').hide() ; return false;" class="close" data-dismiss="alert" aria-label="close">&times;</a>#}
+                            {%- for msg in errors %}
+                                <div class="alert alert-warning"><Strong>Sorry! </Strong>{{ msg | safe }}</div>
+                            {% endfor -%}
+                        </div>
+                    {% endif %}
+                {% endwith %}
+        <!-- noMoreProfilesAlert END -->
+        <!-- noMatchingProfilesAlert START -->
+            </div><div class="col-md-12 noMathingProfilesAlert text-center">
+                {% with errors = get_flashed_messages(category_filter=["no_matching_profiles_msg"]) %}
+                    {% if errors %}
+                        <div class="alert-message block-message error">
+                            {#                        <a href="index" onclick="$('.alert').hide() ; return false;" class="close" data-dismiss="alert" aria-label="close">&times;</a>#}
+                            {%- for msg in errors %}
+                                <div class="alert alert-warning"><Strong>Sorry! </Strong>{{ msg | safe }}</div>
+                            {% endfor -%}
+                        </div>
+                    {% endif %}
+                {% endwith %}
+            </div>
+
+        <!-- noMatchingProfilesAlert END -->
+
+    </div>
+<!-- common alert row END -->
+<!-- Info ROW start -->
+    <div class="row rounded shadow myInfoBox" style="
+    padding: 8px; margin-top: 10px;">
+        <!--  -->
+            <!--  -->
+{#        <div class="col-sm-12 text-capitalize text-center text-muted">#}
+{#            info bar#}
+{#        </div>#}
+        <div class="col-md-3 text-capitalize">
+
+            {% block valid_tags %}
+                {% if validTags %}
+                    <strong>{{ validTagsHeader }}</strong>
+                    {{ validTags }}
+                {% endif %}
+            {% endblock %}
+
+        </div>
+
+        <div class="col-md-3 text-capitalize">
+
+            {% block invalid_tags %}
+                {% if invalidTags %}
+                    <strong>{{ invalidTagsHeader }}</strong>
+                    {{ invalidTags }}
+                {% endif %}
+            {% endblock %}
+
+        </div>
+        <div class="col-md-3 text-capitalize">
+
+            {% block valid_artists %}
+                {% if validArtists %}
+                    <strong>{{ validArtistsHeader }}</strong>
+                    {{ validArtists }}
+                {% endif %}
+            {% endblock %}
+
+        </div>
+
+        <div class="col-md-3 text-capitalize">
+
+            {% block invalid_artists %}
+                {% if invalidArtists %}
+                    <strong>{{ invalidArtistsHeader }}</strong>
+                    {{ invalidArtists }}
+                {% endif %}
+            {% endblock %}
+
+        </div>
+    </div>
+
+<!-- Info ROW end -->
+
+
+    <!-- SECOND ROW -->
+    <div class="row top-buffer">
+        <!-- 1/2 col -->
+
+        <div class="col-md-4 shadow rounded" id="tagFilterCol">
+            <h3>Option A: </h3>
+            Get a music profile based on tags</small></h>
+            <hr>
+            <h5>Specify <mark>at least two</mark> tags from the word cloud below and click <mark>"Continue"</mark></h5>
+            <p>It will help us find a matching music profile from the  <a href="https://www.dtic.upf.edu/~ocelma/MusicRecommendationDataset/lastfm-360K.html" target="_blank">Last.fm 360k Users dataset</a> from 2008.
+            </p>
+                <!-- FLASH ALERTS! -->
+            <div class="noMoreProfilesAlert">
+                {% with errors = get_flashed_messages(category_filter=["no_tags_error"]) %}
+                    {% if errors %}
+                        <div class="alert-message block-message error text-center">
+                            {#                        <a href="index" onclick="$('.alert').hide() ; return false;" class="close" data-dismiss="alert" aria-label="close">&times;</a>#}
+                            {%- for msg in errors %}
+                                <div class="alert alert-warning">{{ msg | safe }}</div>
+                            {% endfor -%}
+                        </div>
+                    {% endif %}
+                {% endwith %}
+            </div>
+             <div class="tagsNotFoundAlert">
+                {% with errors = get_flashed_messages(category_filter=["tags_threshold_error"]) %}
+                    {% if errors %}
+                        <div class="alert-message block-message error text-center">
+                            {#   <a href="index" onclick="$('.alert').hide() ; return false;" class="close" data-dismiss="alert" aria-label="close">&times;</a>#}
+                            {%- for msg in errors %}
+                                <div class="alert alert-danger">{{ msg | safe }}</div>
+                            {% endfor -%}
+                        </div>
+                    {% endif %}
+                {% endwith %}
+            </div>
+            <!--  -->
+            <form id="textform" method="post">
+                <div class="form-group">
+                    <label for="tags_text"></label>
+                    <textarea class="form-control" rows="2" name="tags_text" placeholder="example: Rock, Hip Hop,">{{ inputtags }}</textarea>
+                    <button type="submit" name="submit_button" class="btn btn-primary" value="TagContinue" style="margin-top: 3px;">Continue</button>
+                    <button type="submit" name="submit_button" class="btn btn-info" value="TagNextProfile" style="margin-top: 3px;">Skip Profile</button>
+                    <button type="submit" name="submit_button" class="btn btn-success" value="GetRecommendations" style="margin-top: 3px;">Get Recommendations</button>
+                    <button type="submit" name="submit_button" class="btn btn-danger" value="TagAndArtistClear" style="margin-top: 3px;">Start Over</button>
+                </div>
+            </form>
+        </div>
+
+
+        <div class="col-md-4 shadow rounded" id="artistFilterCol">
+            <h3>Option B: </h3>
+            Get a music profil based on artists
+            <hr>
+            <h5>Specify <mark>at least two</mark> of your </br> favorite artists and click <mark>"Continue"</mark></h5>
+
+            <p>It will help us find a matching music profile from the  <a href="https://www.dtic.upf.edu/~ocelma/MusicRecommendationDataset/lastfm-360K.html" target="_blank">Last.fm 360k Users dataset</a> from 2008.
+            </p>
+
+            <div class="artistNotFoundAlert">
+                <div class="tagsNotFoundAlert">
+                {% with errors = get_flashed_messages(category_filter=["artist_threshold_error"]) %}
+                    {% if errors %}
+                        <div class="alert-message block-message error text-center">
+                            {#   <a href="index" onclick="$('.alert').hide() ; return false;" class="close" data-dismiss="alert" aria-label="close">&times;</a>#}
+                            {%- for msg in errors %}
+                                <div class="alert alert-danger">{{ msg | safe }}</div>
+                            {% endfor -%}
+                        </div>
+                    {% endif %}
+                {% endwith %}
+                </div>
+            </div>
+
+            <!-- progress bar -->
+
+                <div data-preset="stripe" class="ldBar label-center" id="artistProgressBars" style="width: 100%; height: auto; display:none"></div>
+
+            <!-- progress bar -->
+            <form id="textform" method="post">
+                <div class="form-group">
+                    <label for="artist_text"></label>
+                    <textarea class="form-control" rows="2" name="artist_text" placeholder="example: The Beatles, Jay-Z,">{{ inputartists }}</textarea>
+                        <button type="submit" name="submit_button" class="btn btn-primary" value="ArtistContinue" id="artistFilterBtn" style="margin-top: 3px;">Continue</button>
+                        <button type="submit" name="submit_button" class="btn btn-info" value="ArtistNextProfile" style="margin-top: 3px;">Skip Profile</button>
+                        <button type="submit" name="submit_button" class="btn btn-success" value="GetRecommendations" style="margin-top: 3px;">Get Recommendations</button>
+                        <button type="submit" name="submit_button" class="btn btn-danger" value="TagAndArtistClear" style="margin-top: 3px;">Start Over</button>
+                </div>
+            </form>
+        </div>
+        
+        
+        <div class="col-md-4 text-capitalize text-center shadow rounded ">
+            <h3>{{profile}}</h3>
+            <div data-spy="scroll" data-target="#scrollspy-header" data-offset="0" style="overflow: scroll; height: 320px; max-width: 350px; margin: 0">
+
+                {% block show_profile %}
+                    {{ data | safe }}
+                {% endblock %}
+            </div>
+        </div>
+        
+    </div>
+
+    <!-- THIRD ROW -->
+
+    <div class="row">
+        <div class="col-md-12 text-center">
+            <p class="text-center">
+            <hr>
+            <h4>Tags word cloud<small class="text-muted"> <br> The bigger the word the more it is represented in the dataset</small></h4>
+            </p>
+            <img src="../static/img/tagcloud_lastfm.png" class="img-fluid" alt="Tags"/>
+        </div>
+    </div>
+
+</div>
+
+<!-- Grid system END -->
+
+<footer class="footer myFooter">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-12 text-capitalize">
+                <hr>
+                <p class="text-muted footerText">&copy; A Thesis Project by Dennis Leszkowicz, IT University of Copenhagen, fall 2018</p>
+            </div>
+        </div>
+    </div>
+
+</footer>
+
+<!--- welcome modal START -->
+<div class="modal modal-lg fade" id="myPopup" tabindex="-1" role="dialog" style="display:none;">
+  <div class="modal-dialog modal-lg"  role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+          <h5 class="modal-title"> Welcome! <small>For optimal experience use desktop browser such as Chrome or Firefox</small> </h5>
+        <button type="button" class="close"  href="#MyPopup" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+        <div class="modal-body">
+            <p>This short experiment is part of a Master's Thesis project focusing on interactive recommender systems.</br>
+                The goal of the experiment is to test two different systems and evaluate the satisfaction rate between a given music profile and the recommendations.
+                The experiment consists of two parts and a short survey and should take 5-10 minutes to complete.
+            </p>
+
+            <div class="list-group">
+                <ol>
+                    <li><strong>The cold start problem:</strong> Like Netflix asks you to choose 3 movies you like upon signup - we try to match your
+                        music preferences with a profile from the the <a href="https://www.dtic.upf.edu/~ocelma/MusicRecommendationDataset/lastfm-360K.html" target="_blank">Last.fm 360k Users dataset</a> from 2008, thus newer artist will not be available.
+                        <p></p>
+                        <p></p>
+                        For this you have two options:
+                    </li>
+                    <h5>Option A: <small>Getting a matching music profile based on tags that you like.</small></h5>
+
+                    <h5>Option B: <small>Getting a matching music profile based on artists that you like.</small></h5>
+                    <p></p>
+                    <p>Once you are somewhat satisfied with the given profile click <strong>"Get Recommendations"</strong></p>
+
+                    <li>This will provide you with 10 recommendations. Study them carefully, if your time allows give them a listen and evaluate the outcome.</li>
+
+                    <li>Finally fill in the survey and don’t forget to click <strong>"Submit"</strong>.</li>
+                </ol>
+
+            </div>
+            <p><mark>Please keep in mind that the profile you are to find will not match your
+            preferences due to the nature of music consumption the profile will hold artists that you don't
+                like at all or don't prefer anymore. This is perfectly fine, so don't strive for perfection.</mark></p>
+        </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+<!--- welcome modal END -->
+
+
+<script type="text/javascript" src="{{ url_for('static', filename='dist/clipboard.min.js') }}"></script>
+<script type="text/javascript" src="{{ url_for('static', filename='dist/loading-bar.js') }}"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/js-cookie@2/src/js.cookie.min.js"></script>
+<script src="https://use.fontawesome.com/65cbe4828e.js"></script>
+<script src="static/js/code.js"></script>
+
+<script type="text/javascript">
+
+    $('#artistFilterBtn').on('click', function() {
+        $().prop('disabled', true);
+
+        $('#artistProgressBars').show();
+        artistProgress();
+        console.log("progress bar finished");
+        $('button').prop('disabled', false);
+
+    });
+
+    function filterBtnTimeOut(obj) {
+        obj.disabled = true;
+        setTimeout(function() {
+            obj.disabled = false;
+        }, 10000);
+        console.log("filter btn TimeOut 10, sec")
+    }
+
+    function artistProgress() {
+        console.log("progress...");
+        var bar1 = new ldBar("#artistProgressBars");
+        bar1.set(0);
+        timerLoop()
+    }
+
+    // source: https://stackoverflow.com/questions/3583724/how-do-i-add-a-delay-in-a-javascript-loop
+    var i = 0;
+    var interval = 10;
+    function timerLoop () {
+
+        setTimeout(function () {
+            console.log(i);
+            var bar2 = document.getElementById('artistProgressBars').ldBar;
+            bar2.set(interval);
+            i++;
+            interval += 10;
+            if (i < 10) {
+                timerLoop();
+            }
+        }, 700)
+    }
+
+
+     $('#privacyBtn').click(function(){
+        window.location.replace("/terms");
+    });
+
+     $(window).on('load',function(){
+        $('#myModal').modal('show');
+    });
+
+     //source: https://stackoverflow.com/questions/35338454/show-modal-once-per-visit
+    function setCookie(cname, cvalue, exdays) {
+        var d = new Date();
+        d.setTime(d.getTime() + (exdays*24*60*60*1000));
+        var expires = "expires=" + d.toUTCString();
+        document.cookie = cname + "=" + cvalue + "; " + expires;
+    }
+
+    function getCookie(cname) {
+        var name = cname + "=";
+        var ca = document.cookie.split(';');
+        for(let i=0; i<ca.length; i++) {
+            let c = ca[i];
+            while (c.charAt(0)==' ') c = c.substring(1);
+            if (c.indexOf(name) == 0) return c.substring(name.length,c.length);
+        }
+        return "";
+    }
+
+     var cookie = getCookie('shown');
+     console.log((cookie));
+    if (!cookie) {
+        $('#myPopup').modal('show');
+        showPopup();
+    }
+    else{
+        $('#myPopup').modal('hide');
+    }
+
+    function showPopup() {
+        setCookie('shown', 'true', 365);
+        document.querySelector('#MyPopup').style.display = 'block';
+
+    }
+
+
+
+
+</script>
+
+</body>
+
+
+</html>

@@ -1,0 +1,208 @@
+{
+    "username": "8d595f8f-5418-431f-8a14-d2ad6585aa73",
+    "ts": "1544793678.6085274",
+    "baseline": "True",
+    "final_profile": "9935",
+    "valid_tags": [
+        "rock",
+        "electronic"
+    ],
+    "invalid_tags": [],
+    "valid_artists": [
+        "unkle",
+        "the national"
+    ],
+    "invalid_artists": [],
+    "tags_clicks": "1",
+    "artists_clicks": "1",
+    "zero_all_clicks": "0",
+    "boost_up_clicks": "0",
+    "boost_down_clicks": "0",
+    "clear_data_clicks": "0",
+    "plays_row": [
+        "89ers",
+        "[unknown]",
+        "alexandra",
+        "alien ant farm",
+        "andrea bertolini",
+        "armand van helden",
+        "ashley tisdale",
+        "basshunter",
+        "benassi bros.",
+        "benny benassi",
+        "bob sinclar",
+        "cascada",
+        "cold storage",
+        "coone",
+        "daft punk",
+        "disturbed",
+        "dottor dag",
+        "double nation",
+        "etienne de cr\u00e9cy",
+        "fedde le grand",
+        "gabriella cilmi",
+        "gianluca motta",
+        "gigi dagostino",
+        "global deejays",
+        "global deejays feat. technotronic",
+        "groove coverage",
+        "jeckyll & hyde",
+        "kim leoni",
+        "kim sozzi",
+        "lento violento man",
+        "lindsay lohan",
+        "liz kay",
+        "m3",
+        "nickelback",
+        "nine inch nails",
+        "scooter",
+        "skindred",
+        "system of a down",
+        "technoboy",
+        "the caramel club",
+        "the chemical brothers",
+        "the prodigy",
+        "the saturdays",
+        "ti\u00ebsto",
+        "vanessa hudgens"
+    ],
+    "plays_data": [
+        "28",
+        "27",
+        "24",
+        "53",
+        "18",
+        "19",
+        "260",
+        "74",
+        "86",
+        "101",
+        "43",
+        "325",
+        "23",
+        "20",
+        "23",
+        "90",
+        "32",
+        "66",
+        "20",
+        "20",
+        "68",
+        "22",
+        "45",
+        "97",
+        "47",
+        "70",
+        "41",
+        "18",
+        "83",
+        "251",
+        "33",
+        "59",
+        "75",
+        "23",
+        "87",
+        "71",
+        "79",
+        "257",
+        "26",
+        "23",
+        "33",
+        "101",
+        "122",
+        "17",
+        "48"
+    ],
+    "recommendations": {
+        "september": [
+            [
+                "1.0551753"
+            ],
+            [
+                "dance, pop, swedish",
+                " <a href=\"https://open.spotify.com/search/results/september\" target=\"_blank\"><i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "katy perry": [
+            [
+                "0.9960502"
+            ],
+            [
+                "pop, female vocalists, pop rock",
+                " <a href=\"https://open.spotify.com/search/results/katy-perry\" target=\"_blank\"><i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "david guetta": [
+            [
+                "0.9234823"
+            ],
+            [
+                "house, dance, electronic",
+                " <a href=\"https://open.spotify.com/search/results/david-guetta\" target=\"_blank\"><i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "linkin park": [
+            [
+                "0.92229295"
+            ],
+            [
+                "rock, nu metal, alternative rock",
+                " <a href=\"https://open.spotify.com/search/results/linkin-park\" target=\"_blank\"><i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "lady gaga": [
+            [
+                "0.91792333"
+            ],
+            [
+                "pop, dance, electronic",
+                " <a href=\"https://open.spotify.com/search/results/lady-gaga\" target=\"_blank\"><i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "pink": [
+            [
+                "0.91065985"
+            ],
+            [
+                "pop, female vocalists, pop rock",
+                " <a href=\"https://open.spotify.com/search/results/pink\" target=\"_blank\"><i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "rammstein": [
+            [
+                "0.9051994"
+            ],
+            [
+                "industrial metal, metal, industrial",
+                " <a href=\"https://open.spotify.com/search/results/rammstein\" target=\"_blank\"><i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "guru josh project": [
+            [
+                "0.88026404"
+            ],
+            [
+                "house, dance, electro",
+                " <a href=\"https://open.spotify.com/search/results/guru-josh-project\" target=\"_blank\"><i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "pendulum": [
+            [
+                "0.87922037"
+            ],
+            [
+                "drum and bass, electronic, drum n bass",
+                " <a href=\"https://open.spotify.com/search/results/pendulum\" target=\"_blank\"><i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "red hot chili peppers": [
+            [
+                "0.87103426"
+            ],
+            [
+                "rock, alternative rock, alternative",
+                " <a href=\"https://open.spotify.com/search/results/red-hot-chili-peppers\" target=\"_blank\"><i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,204 @@
+{
+    "username": "5d0c57bf-253c-4677-bcce-77ace050c987",
+    "ts": "1544782503.8529427",
+    "baseline": "True",
+    "final_profile": "127134",
+    "valid_tags": [
+        "electronic",
+        "instrumental",
+        "alternative"
+    ],
+    "invalid_tags": [],
+    "valid_artists": "",
+    "invalid_artists": "",
+    "tags_clicks": "8",
+    "artists_clicks": "0",
+    "zero_all_clicks": "0",
+    "boost_up_clicks": "0",
+    "boost_down_clicks": "0",
+    "clear_data_clicks": "3",
+    "plays_row": [
+        "acoustic alchemy",
+        "anberlin",
+        "arcade fire",
+        "buckethead",
+        "coldplay",
+        "crystal castles",
+        "cut copy",
+        "daft punk",
+        "death cab for cutie",
+        "flobots",
+        "gorillaz",
+        "jason mraz",
+        "justice",
+        "keane",
+        "magical trick society",
+        "mario galaxy orchestra",
+        "masakazu sugimori",
+        "mgmt",
+        "michael giacchino",
+        "muse",
+        "panic at the disco",
+        "phoenix",
+        "ra ra riot",
+        "radiohead",
+        "red hot chili peppers",
+        "say hi to your mom",
+        "spoon",
+        "stars",
+        "strings",
+        "the bird and the bee",
+        "the decemberists",
+        "the fratellis",
+        "the killers",
+        "the maine",
+        "the postal service",
+        "the strokes",
+        "u2",
+        "vampire weekend",
+        "voxtrot",
+        "\u5149\u7530\u5eb7\u5178",
+        "\u5927\u8c37\u5e78",
+        "\u5ca9\u5782\u5fb3\u884c",
+        "\u690d\u677e\u4f38\u592b",
+        "\u8fd1\u85e4\u6d69\u6cbb"
+    ],
+    "plays_data": [
+        "647",
+        "197",
+        "362",
+        "163",
+        "262",
+        "146",
+        "214",
+        "357",
+        "433",
+        "156",
+        "104",
+        "217",
+        "193",
+        "475",
+        "118",
+        "129",
+        "458",
+        "156",
+        "274",
+        "175",
+        "364",
+        "199",
+        "159",
+        "924",
+        "200",
+        "102",
+        "102",
+        "687",
+        "132",
+        "180",
+        "258",
+        "284",
+        "105",
+        "95",
+        "233",
+        "112",
+        "103",
+        "229",
+        "658",
+        "236",
+        "83",
+        "140",
+        "224",
+        "301"
+    ],
+    "recommendations": {
+        "weezer": [
+            [
+                "1.3777369"
+            ],
+            [
+                "rock, alternative, alternative rock",
+                " <a href=\"https://open.spotify.com/search/results/weezer\" target=\"_blank\"><i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "ratatat": [
+            [
+                "1.3656244"
+            ],
+            [
+                "electronic, instrumental, indie",
+                " <a href=\"https://open.spotify.com/search/results/ratatat\" target=\"_blank\"><i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "yeah yeah yeahs": [
+            [
+                "1.1134918"
+            ],
+            [
+                "indie, indie rock, female vocalists",
+                " <a href=\"https://open.spotify.com/search/results/yeah-yeah-yeahs\" target=\"_blank\"><i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "beck": [
+            [
+                "1.0936849"
+            ],
+            [
+                "alternative, indie, rock",
+                " <a href=\"https://open.spotify.com/search/results/beck\" target=\"_blank\"><i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "the lonely island": [
+            [
+                "1.0798256"
+            ],
+            [
+                "comedy, rap, hip-hop",
+                " <a href=\"https://open.spotify.com/search/results/the-lonely-island\" target=\"_blank\"><i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "franz ferdinand": [
+            [
+                "1.0702031"
+            ],
+            [
+                "indie, indie rock, rock",
+                " <a href=\"https://open.spotify.com/search/results/franz-ferdinand\" target=\"_blank\"><i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "the shins": [
+            [
+                "1.0321525"
+            ],
+            [
+                "indie, indie rock, indie pop",
+                " <a href=\"https://open.spotify.com/search/results/the-shins\" target=\"_blank\"><i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "modest mouse": [
+            [
+                "1.0067625"
+            ],
+            [
+                "indie, indie rock, alternative",
+                " <a href=\"https://open.spotify.com/search/results/modest-mouse\" target=\"_blank\"><i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "bloc party": [
+            [
+                "1.0051078"
+            ],
+            [
+                "indie, indie rock, alternative",
+                " <a href=\"https://open.spotify.com/search/results/bloc-party\" target=\"_blank\"><i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "mute math": [
+            [
+                "0.96892536"
+            ],
+            [
+                "indie, alternative, experimental",
+                " <a href=\"https://open.spotify.com/search/results/mute-math\" target=\"_blank\"><i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ]
+    }
+}

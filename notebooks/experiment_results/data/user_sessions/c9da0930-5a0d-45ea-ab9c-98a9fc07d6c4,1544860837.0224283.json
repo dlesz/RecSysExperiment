@@ -1,0 +1,215 @@
+{
+    "username": "c9da0930-5a0d-45ea-ab9c-98a9fc07d6c4",
+    "ts": "1544860837.0224283",
+    "baseline": "True",
+    "final_profile": "9570",
+    "valid_tags": [
+        "country",
+        "bluegrass"
+    ],
+    "invalid_tags": [],
+    "valid_artists": "",
+    "invalid_artists": "",
+    "tags_clicks": "3",
+    "artists_clicks": "0",
+    "zero_all_clicks": "0",
+    "boost_up_clicks": "0",
+    "boost_down_clicks": "0",
+    "clear_data_clicks": "0",
+    "plays_row": [
+        "3 doors down",
+        "aerosmith",
+        "alabama",
+        "alanis morissette",
+        "atlantic starr",
+        "bad english",
+        "berlin",
+        "brad paisley",
+        "cake",
+        "candlebox",
+        "coldplay",
+        "con funk shun",
+        "conway twitty",
+        "creedence clearwater revival",
+        "dolly parton",
+        "eagles",
+        "elton john",
+        "elvis presley",
+        "eve 6",
+        "george strait",
+        "guns n' roses",
+        "heart",
+        "holly dunn",
+        "john conlee",
+        "john michael montgomery",
+        "johnny cash",
+        "kathy mattea",
+        "kingpin skinny pimp",
+        "loretta lynn",
+        "miley cyrus",
+        "oasis",
+        "pam tillis",
+        "patty loveless",
+        "phil collins",
+        "reba mcentire",
+        "reo speedwagon",
+        "richard marx",
+        "ronnie milsap",
+        "rosanne cash",
+        "shania twain",
+        "sin\u00e9ad o'connor",
+        "tanya tucker",
+        "taylor swift",
+        "the cranberries",
+        "the nitty gritty dirt band",
+        "the righteous brothers",
+        "the wallflowers",
+        "theory of a deadman",
+        "third eye blind",
+        "three 6 mafia"
+    ],
+    "plays_data": [
+        "18",
+        "14",
+        "18",
+        "21",
+        "12",
+        "12",
+        "9",
+        "13",
+        "8",
+        "8",
+        "8",
+        "7",
+        "8",
+        "24",
+        "13",
+        "9",
+        "9",
+        "10",
+        "11",
+        "9",
+        "12",
+        "8",
+        "8",
+        "11",
+        "7",
+        "14",
+        "12",
+        "10",
+        "9",
+        "14",
+        "19",
+        "17",
+        "33",
+        "15",
+        "19",
+        "14",
+        "19",
+        "16",
+        "11",
+        "11",
+        "7",
+        "24",
+        "21",
+        "21",
+        "12",
+        "7",
+        "7",
+        "7",
+        "9",
+        "16"
+    ],
+    "recommendations": {
+        "bon jovi": [
+            [
+                "0.56330365"
+            ],
+            [
+                "rock, hard rock, classic rock",
+                " <a href=\"https://open.spotify.com/search/results/bon-jovi\" target=\"_blank\"><i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "dixie chicks": [
+            [
+                "0.5597691"
+            ],
+            [
+                "country, female vocalists, bluegrass",
+                " <a href=\"https://open.spotify.com/search/results/dixie-chicks\" target=\"_blank\"><i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "bruce springsteen": [
+            [
+                "0.5538073"
+            ],
+            [
+                "rock, classic rock, singer-songwriter",
+                " <a href=\"https://open.spotify.com/search/results/bruce-springsteen\" target=\"_blank\"><i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "bryan adams": [
+            [
+                "0.54528946"
+            ],
+            [
+                "rock, classic rock, 80s",
+                " <a href=\"https://open.spotify.com/search/results/bryan-adams\" target=\"_blank\"><i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "r.e.m.": [
+            [
+                "0.5433507"
+            ],
+            [
+                "rock, alternative rock, alternative",
+                " <a href=\"https://open.spotify.com/search/results/r.e.m.\" target=\"_blank\"><i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "queen": [
+            [
+                "0.5227149"
+            ],
+            [
+                "classic rock, rock, 80s",
+                " <a href=\"https://open.spotify.com/search/results/queen\" target=\"_blank\"><i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "u2": [
+            [
+                "0.51893866"
+            ],
+            [
+                "rock, classic rock, irish",
+                " <a href=\"https://open.spotify.com/search/results/u2\" target=\"_blank\"><i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "garth brooks": [
+            [
+                "0.50728697"
+            ],
+            [
+                "country, garth brooks, singer-songwriter",
+                " <a href=\"https://open.spotify.com/search/results/garth-brooks\" target=\"_blank\"><i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "alan jackson": [
+            [
+                "0.49892867"
+            ],
+            [
+                "country, alan jackson, singer-songwriter",
+                " <a href=\"https://open.spotify.com/search/results/alan-jackson\" target=\"_blank\"><i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "lynyrd skynyrd": [
+            [
+                "0.49810192"
+            ],
+            [
+                "classic rock, southern rock, rock",
+                " <a href=\"https://open.spotify.com/search/results/lynyrd-skynyrd\" target=\"_blank\"><i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ]
+    }
+}

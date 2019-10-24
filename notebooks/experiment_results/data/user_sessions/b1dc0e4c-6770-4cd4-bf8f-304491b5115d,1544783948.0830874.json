@@ -1,0 +1,214 @@
+{
+    "username": "b1dc0e4c-6770-4cd4-bf8f-304491b5115d",
+    "ts": "1544783948.0830874",
+    "baseline": "True",
+    "final_profile": "149615",
+    "valid_tags": "",
+    "invalid_tags": "",
+    "valid_artists": [
+        "the cat empire",
+        "quantic",
+        "coldplay"
+    ],
+    "invalid_artists": [],
+    "tags_clicks": "0",
+    "artists_clicks": "1",
+    "zero_all_clicks": "0",
+    "boost_up_clicks": "0",
+    "boost_down_clicks": "0",
+    "clear_data_clicks": "0",
+    "plays_row": [
+        "a northern chorus",
+        "ben lee",
+        "ben's brother",
+        "bruce springsteen",
+        "carolina liar",
+        "citizen cope",
+        "city and colour",
+        "coldplay",
+        "dave matthews band",
+        "david gray",
+        "dire straits",
+        "eagles",
+        "emerson hart",
+        "eskimo joe",
+        "fleetwood mac",
+        "griffin house",
+        "guster",
+        "jack johnson",
+        "john mayer",
+        "jon mclaughlin",
+        "les cowboys fringants",
+        "lifehouse",
+        "machete avenue",
+        "mark knopfler",
+        "mason jennings",
+        "matt costa",
+        "matthew good",
+        "ne-yo",
+        "newton faulkner",
+        "pete murray",
+        "radiohead",
+        "sam roberts",
+        "seal",
+        "sia",
+        "stars",
+        "taio cruz",
+        "take that",
+        "the cat empire",
+        "the fray",
+        "the killers",
+        "the kin",
+        "the kooks",
+        "the midway state",
+        "the wallflowers",
+        "tom petty and the heartbreakers",
+        "transformers",
+        "travis",
+        "u2",
+        "unkle bob"
+    ],
+    "plays_data": [
+        "235",
+        "208",
+        "214",
+        "500",
+        "445",
+        "222",
+        "415",
+        "1214",
+        "508",
+        "525",
+        "274",
+        "560",
+        "175",
+        "175",
+        "370",
+        "461",
+        "178",
+        "1786",
+        "348",
+        "180",
+        "245",
+        "436",
+        "303",
+        "381",
+        "311",
+        "403",
+        "635",
+        "278",
+        "175",
+        "211",
+        "329",
+        "239",
+        "231",
+        "288",
+        "176",
+        "324",
+        "303",
+        "522",
+        "188",
+        "516",
+        "202",
+        "1242",
+        "331",
+        "693",
+        "599",
+        "370",
+        "496",
+        "188",
+        "599"
+    ],
+    "recommendations": {
+        "simon & garfunkel": [
+            [
+                "1.42729"
+            ],
+            [
+                "folk, classic rock, singer-songwriter",
+                " <a href=\"https://open.spotify.com/search/results/simon-&-garfunkel\" target=\"_blank\"><i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "onerepublic": [
+            [
+                "1.4221843"
+            ],
+            [
+                "rock, pop rock, alternative",
+                " <a href=\"https://open.spotify.com/search/results/onerepublic\" target=\"_blank\"><i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "howie day": [
+            [
+                "1.3839022"
+            ],
+            [
+                "singer-songwriter, acoustic, rock",
+                " <a href=\"https://open.spotify.com/search/results/howie-day\" target=\"_blank\"><i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "joseph arthur": [
+            [
+                "1.3522339"
+            ],
+            [
+                "singer-songwriter, indie, folk",
+                " <a href=\"https://open.spotify.com/search/results/joseph-arthur\" target=\"_blank\"><i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "alexi murdoch": [
+            [
+                "1.270747"
+            ],
+            [
+                "singer-songwriter, folk, acoustic",
+                " <a href=\"https://open.spotify.com/search/results/alexi-murdoch\" target=\"_blank\"><i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "cary brothers": [
+            [
+                "1.2629082"
+            ],
+            [
+                "indie, singer-songwriter, acoustic",
+                " <a href=\"https://open.spotify.com/search/results/cary-brothers\" target=\"_blank\"><i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "xavier rudd": [
+            [
+                "1.233695"
+            ],
+            [
+                "acoustic, folk, australian",
+                " <a href=\"https://open.spotify.com/search/results/xavier-rudd\" target=\"_blank\"><i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "the john butler trio": [
+            [
+                "1.2206086"
+            ],
+            [
+                "acoustic, australian, rock",
+                " <a href=\"https://open.spotify.com/search/results/the-john-butler-trio\" target=\"_blank\"><i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "james morrison": [
+            [
+                "1.1979065"
+            ],
+            [
+                "singer-songwriter, british, soul",
+                " <a href=\"https://open.spotify.com/search/results/james-morrison\" target=\"_blank\"><i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "greg laswell": [
+            [
+                "1.1970189"
+            ],
+            [
+                "singer-songwriter, indie, alternative",
+                " <a href=\"https://open.spotify.com/search/results/greg-laswell\" target=\"_blank\"><i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ]
+    }
+}

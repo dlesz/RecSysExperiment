@@ -1,0 +1,187 @@
+{
+    "username": "fe1cb797-a53c-4cea-8f5a-0904b7f564d9",
+    "ts": "1544370568.7210279",
+    "baseline": "True",
+    "final_profile": "37796",
+    "valid_tags": "",
+    "invalid_tags": "",
+    "valid_artists": [
+        "gogol bordello",
+        "shantel"
+    ],
+    "invalid_artists": [
+        "balkan beatbox"
+    ],
+    "tags_clicks": "0",
+    "artists_clicks": "4",
+    "zero_all_clicks": "0",
+    "boost_up_clicks": "0",
+    "boost_down_clicks": "0",
+    "clear_data_clicks": "2",
+    "plays_row": [
+        "!deladap",
+        "balkan beat box",
+        "besh o drom",
+        "boom pam",
+        "bratsch",
+        "cheikh sidi b\u00e9mol",
+        "emir kusturica & the no smoking orchestra",
+        "fanfare cioc\u0103rlia",
+        "fiona apple",
+        "gipsy",
+        "gipsy.cz",
+        "gogol bordello",
+        "gothart",
+        "haydamaky",
+        "hazmat modine",
+        "hoba hoba spirit",
+        "ivan ivanovich & the kreml krauts",
+        "kal",
+        "kosmo koslowski",
+        "kultur shock",
+        "la caravane passe",
+        "los delinq\u00fcentes",
+        "mahala rai banda",
+        "matisyahu",
+        "ridan",
+        "rodrigo y gabriela",
+        "samarabalouf",
+        "samarabalouf & arnaud van lancker",
+        "sampler",
+        "shantel",
+        "traband",
+        "tryo",
+        "umaturman",
+        "\u00c1\u00ee\u00f2\u00e0\u00ed\u00e8\u00ea\u00e0",
+        "\u00c4l jawala"
+    ],
+    "plays_data": [
+        "43",
+        "103",
+        "315",
+        "153",
+        "39",
+        "111",
+        "383",
+        "39",
+        "139",
+        "133",
+        "75",
+        "134",
+        "32",
+        "58",
+        "45",
+        "44",
+        "157",
+        "32",
+        "77",
+        "65",
+        "61",
+        "72",
+        "44",
+        "50",
+        "44",
+        "220",
+        "224",
+        "150",
+        "94",
+        "72",
+        "223",
+        "35",
+        "43",
+        "31",
+        "46"
+    ],
+    "recommendations": {
+        "goran bregovic": [
+            [
+                "1.0415894"
+            ],
+            [
+                "balkan, folk, gypsy",
+                " <a href=\"https://open.spotify.com/search/results/goran bregovic\" target=\"_blank\">Listen <i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "buena vista social club": [
+            [
+                "0.9022641"
+            ],
+            [
+                "latin, cuban, jazz",
+                " <a href=\"https://open.spotify.com/search/results/buena vista social club\" target=\"_blank\">Listen <i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "the cat empire": [
+            [
+                "0.87277335"
+            ],
+            [
+                "ska, jazz, funk",
+                " <a href=\"https://open.spotify.com/search/results/the cat empire\" target=\"_blank\">Listen <i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "amadou & mariam": [
+            [
+                "0.86060715"
+            ],
+            [
+                "african, world, mali",
+                " <a href=\"https://open.spotify.com/search/results/amadou & mariam\" target=\"_blank\">Listen <i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "babylon circus": [
+            [
+                "0.8472055"
+            ],
+            [
+                "ska, reggae, french",
+                " <a href=\"https://open.spotify.com/search/results/babylon circus\" target=\"_blank\">Listen <i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "goran bregovi\u0107": [
+            [
+                "0.84572434"
+            ],
+            [
+                "balkan, folk, gypsy",
+                " <a href=\"https://open.spotify.com/search/results/goran bregovi\u0107\" target=\"_blank\">Listen <i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "ojos de brujo": [
+            [
+                "0.84010303"
+            ],
+            [
+                "flamenco, spanish, fusion",
+                " <a href=\"https://open.spotify.com/search/results/ojos de brujo\" target=\"_blank\">Listen <i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "17 hippies": [
+            [
+                "0.82933223"
+            ],
+            [
+                "folk, gypsy, german",
+                " <a href=\"https://open.spotify.com/search/results/17 hippies\" target=\"_blank\">Listen <i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "taraf de ha\u00efdouks": [
+            [
+                "0.8169632"
+            ],
+            [
+                "gypsy, balkan, folk",
+                " <a href=\"https://open.spotify.com/search/results/taraf de ha\u00efdouks\" target=\"_blank\">Listen <i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "mano negra": [
+            [
+                "0.8114471"
+            ],
+            [
+                "ska, alternative, latin",
+                " <a href=\"https://open.spotify.com/search/results/mano negra\" target=\"_blank\">Listen <i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ]
+    }
+}

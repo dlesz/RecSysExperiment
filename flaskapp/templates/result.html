@@ -1,0 +1,241 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Music Recommender System Experiment</title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge, chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href ="{{ url_for('static', filename='css/bootstrap.min.css') }}">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/custom.css') }}">
+</head>
+
+<body>
+<nav class="navbar navbar-dark bg-dark fixed-top">
+    <!-- Navbar content -->
+    <a class="navbar-brand" href="/index">Music Recommender System Experiment</a>
+    <div class="form-group">
+        <button type="button" class="btn btn-outline-info" data-toggle="modal" data-target="#myPopup">Instructions</button>
+        <button type="button" name="submit" class="btn btn-outline-warning" id="privacyBtn">Privacy Policy</button>
+    </div>
+    <!-- Button trigger modal -->
+</nav>
+
+<div class="container top-buffer">
+    <div class="row">
+            <div class="col-md-2 text-capitalize text-center">
+            <div data-spy="scroll" data-target="#scrollspy-header"  data-offset="0" style="overflow: scroll; max-width: 450px; max-height: 600px;">
+                    <h3>Music profile</h3>
+                    {% block prof %}
+                        {{ profile | safe}}
+                    {% endblock %}
+                </div>
+            </div>
+
+            <div class="col-md-4 text-capitalize text-center">
+                <h3>Recommendations</h3>
+
+                    {% block recs %}
+                        {{data | safe}}
+                    {% endblock %}
+
+            </div>
+
+            <div class="col-md-6 align-content-center shadow rounded">
+                {% with messages = get_flashed_messages(category_filter=["get_id"]) %}
+                    {% if messages %}
+
+                            {# <a class="close" href="index">×</a> #}
+                            {# <a href="index" onclick="return false" class="close" data-dismiss="alert" aria-label="close">&times;</a>  #}
+                                {%- for msg in messages %}
+                                    <div class="alert alert-success">
+                                        {% set u_id = msg %}
+                                        <strong>session id: </strong><small>{{ u_id }}</small>
+{#                                        <button id="my-data" data-name="{{u_id}}" class="btn btn-outline-primary uIdBtn"><img src="/static/assets/clippy.svg" alt="Copy to clipboard"> Copy to clipboard</button>#}
+                                        <button id="my-data" data-name="{{u_id}}" class="btn btn-outline-dark btn-sm uIdBtn"> Copy to clipboard</button>
+
+                                    </div>
+                                {% endfor -%}
+                    {% endif %}
+                {% endwith %}
+
+                <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd0ovoqjxfOlGGcYS_4VOjI8S74uUphdjE3h8aCadE2GBBNWg/viewform?embedded=true" width="540" height="1139" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+            </div>
+
+    </div>
+
+</div>
+    <footer class="footer myFooter">
+        <div class="container">
+
+            <div class="row">
+                <div class="col-md-12">
+
+                    <div class="col-md-12">
+                        <hr>
+                        <p class="text-muted footerText">&copy; A Thesis Project by Dennis Leszkowicz, IT University of Copenhagen, fall 2018</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+
+<div class="modal fade" id="myModal" tabindex="-1" role="dialog" style="display:none;">
+  <div class="modal-dialog modal"  role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title"><span class="fa fa-thumbs-up fa-lg" aria-hidden="true"></span> Good job! </h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <p>Your are almost done, now take a minute to evaluate
+            the recommendations and fill in the short survey.</p>
+      </div>
+      <div class="modal-footer">
+          <p>Don't forget to click <strong>Submit</strong> at the end of the survey</p>
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<!--- welcome modal START -->
+<div class="modal modal-lg fade" id="myPopup" tabindex="-1" role="dialog" style="display:none;">
+  <div class="modal-dialog  modal-lg"  role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+          <h5 class="modal-title"> Welcome! <small>For optimal experience use desktop browser such as Chrome or Firefox</small> </h5>
+        <button type="button" class="close"  href="#MyPopup" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+          <div class="modal-body">
+            <p>This short experiment is part of a Master's Thesis project focusing on interactive recommender systems.</br>
+                The goal of the experiment is to test two different systems and evaluate the satisfaction rate between a given music profile and the recommendations.
+                The experiment consists of two parts and a short survey and should take 5-10 minutes to complete.
+            </p>
+
+            <div class="list-group">
+                <ol>
+                    <li><strong>The cold start problem:</strong> Like Netflix asks you to choose 3 movies you like upon signup - we try to match your
+                        music preferences with a profile from the the <a href="https://www.dtic.upf.edu/~ocelma/MusicRecommendationDataset/lastfm-360K.html" target="_blank">Last.fm 360k Users dataset</a> from 2008, thus newer artist will not be available.
+                        <p></p>
+                        <p></p>
+                        For this you have two options:
+                    </li>
+                    <h5>Option A: <small>Getting a matching music profile based on tags that you like.</small></h5>
+
+                    <h5>Option B: <small>Getting a matching music profile based on artists that you like.</small></h5>
+                    <p></p>
+                    <p>Once you are somewhat satisfied with the given profile click <strong>"Get Recommendations"</strong></p>
+
+                    <li>This will provide you with 10 recommendations. Study them carefully, if your time allows give them a listen and evaluate the outcome.</li>
+
+                    <li>Finally fill in the survey and don’t forget to click <strong>"Submit"</strong>.</li>
+                </ol>
+
+            </div>
+            <p><mark>Please keep in mind that the profile you are to find will not match your
+            preferences due to the nature of music consumption the profile will hold artists that you don't
+                like at all or don't prefer anymore. This is perfectly fine, so don't strive for perfection.</mark></p>
+        </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+<!--- welcome modal END -->
+
+    {#<script#}
+    {#        src="https://code.jquery.com/jquery-3.3.1.js"#}
+    {#        integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60="#}
+    {#        crossorigin="anonymous">#}
+    {##}
+    {#</script>#}
+    {#<script src="https://use.fontawesome.com/65cbe4828e.js"></script>#}
+    {#<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>#}
+    {#<script type="text/javascript" src="{{ url_for('static', filename='dist/clipboard.min.js') }}"></script>#}
+    {#<script src="static/js/code.js"></script>#}
+    <!-- old import above -->
+
+    <script type="text/javascript" src="{{ url_for('static', filename='dist/clipboard.min.js') }}"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js"></script>
+    <script src="https://use.fontawesome.com/65cbe4828e.js"></script>
+    <script src="static/js/code.js"></script>
+
+    <script>
+        $('.uIdBtn').on('click',function() {
+            const userId = $('#my-data').data();
+            const clipboard = new ClipboardJS('.btn', {
+                text: function () {
+                    return Object.values(userId);
+                }
+            });
+
+            clipboard.on('success', function (e) {
+                console.log(e);
+                console.info('Action:', e.action);
+                console.info('Text:', e.text);
+                console.info('Trigger:', e.trigger);
+            });
+
+            clipboard.on('error', function (e) {
+                console.error('Action:', e.action);
+                console.error('Trigger:', e.trigger);
+            });
+        });
+
+         $('#privacyBtn').click(function(){
+        window.location.replace("/terms");
+    });
+    //https://stackoverflow.com/questions/10233550/launch-bootstrap-modal-on-page-load
+    $(window).on('load',function(){
+        $('#myModal').modal('show');
+    });
+
+    //source: https://stackoverflow.com/questions/35338454/show-modal-once-per-visit
+    function setCookie(cname, cvalue, exdays) {
+        var d = new Date();
+        d.setTime(d.getTime() + (exdays*24*60*60*1000));
+        var expires = "expires="+d.toUTCString();
+        document.cookie = cname + "=" + cvalue + "; " + expires;
+    }
+
+    function getCookie(cname) {
+        var name = cname + "=";
+        var ca = document.cookie.split(';');
+        for(var i=0; i<ca.length; i++) {
+            var c = ca[i];
+            while (c.charAt(0)==' ') c = c.substring(1);
+            if (c.indexOf(name) == 0) return c.substring(name.length,c.length);
+        }
+        return "";
+    }
+
+    var cookie = getCookie('shown');
+    console.log((cookie));
+    if (!cookie) {
+        $('#myPopup').modal('show');
+        showPopup();
+    }
+    else{
+        $('#myPopup').modal('hide');
+    }
+
+    function showPopup() {
+        setCookie('shown', 'true', 365);
+        document.querySelector('#MyPopup').style.display = 'block';
+
+    }
+</script>
+
+</body>
+
+</html>

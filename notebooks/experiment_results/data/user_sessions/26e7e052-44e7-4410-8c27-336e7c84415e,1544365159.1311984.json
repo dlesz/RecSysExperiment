@@ -1,0 +1,211 @@
+{
+    "username": "26e7e052-44e7-4410-8c27-336e7c84415e",
+    "ts": "1544365159.1311984",
+    "baseline": "True",
+    "final_profile": "10602",
+    "valid_tags": [
+        "rock",
+        "pop"
+    ],
+    "invalid_tags": [],
+    "valid_artists": "",
+    "invalid_artists": "",
+    "tags_clicks": "4",
+    "artists_clicks": "0",
+    "zero_all_clicks": "0",
+    "boost_up_clicks": "0",
+    "boost_down_clicks": "0",
+    "clear_data_clicks": "0",
+    "plays_row": [
+        "[unknown]",
+        "akon",
+        "american head charge",
+        "audioslave",
+        "avi\u00f5es do forr\u00f3",
+        "ben harper",
+        "black sabbath",
+        "bob marley",
+        "bon jovi",
+        "cachorro grande",
+        "charlie brown jr.",
+        "coldplay",
+        "c\u00e9sar oliveira",
+        "dante ramon ledesma",
+        "deftones",
+        "disturbed",
+        "engenheiros do hawaii",
+        "foo fighters",
+        "goo goo dolls",
+        "gorillaz",
+        "green day",
+        "incubus",
+        "jack johnson",
+        "jeito moleque",
+        "ko\u042fn",
+        "led zeppelin",
+        "los hermanos",
+        "mudvayne",
+        "nickelback",
+        "nightwish",
+        "nirvana",
+        "oasis",
+        "orishas",
+        "p.o.d.",
+        "queen",
+        "queens of the stone age",
+        "raimundos",
+        "rammstein",
+        "raul seixas",
+        "red hot chili peppers",
+        "slipknot",
+        "stereophonics",
+        "tch\u00ea garotos",
+        "the offspring",
+        "the strokes",
+        "u2",
+        "vera loca",
+        "wander wildner"
+    ],
+    "plays_data": [
+        "781",
+        "406",
+        "421",
+        "323",
+        "1289",
+        "331",
+        "460",
+        "329",
+        "459",
+        "1269",
+        "443",
+        "826",
+        "504",
+        "735",
+        "470",
+        "488",
+        "499",
+        "662",
+        "364",
+        "369",
+        "1051",
+        "1588",
+        "358",
+        "298",
+        "2577",
+        "553",
+        "745",
+        "319",
+        "1499",
+        "350",
+        "3683",
+        "902",
+        "395",
+        "585",
+        "333",
+        "655",
+        "975",
+        "941",
+        "2926",
+        "819",
+        "507",
+        "410",
+        "419",
+        "406",
+        "476",
+        "1136",
+        "349",
+        "595"
+    ],
+    "recommendations": {
+        "ira!": [
+            [
+                "1.1558609"
+            ],
+            [
+                "rock, brazilian rock, 80s",
+                " <a href=\"https://open.spotify.com/search/results/ira!\" target=\"_blank\">Listen <i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "capital inicial": [
+            [
+                "1.1487803"
+            ],
+            [
+                "rock, brazilian rock, pop rock",
+                " <a href=\"https://open.spotify.com/search/results/capital inicial\" target=\"_blank\">Listen <i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "pitty": [
+            [
+                "1.1478186"
+            ],
+            [
+                "rock, female vocalists, brazilian rock",
+                " <a href=\"https://open.spotify.com/search/results/pitty\" target=\"_blank\">Listen <i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "biquini cavad\u00e3o": [
+            [
+                "1.1303797"
+            ],
+            [
+                "rock, rock brasileiro, 80s",
+                " <a href=\"https://open.spotify.com/search/results/biquini cavad\u00e3o\" target=\"_blank\">Listen <i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "armandinho": [
+            [
+                "1.1249515"
+            ],
+            [
+                "reggae, brazilian, reggae brasileiro",
+                " <a href=\"https://open.spotify.com/search/results/armandinho\" target=\"_blank\">Listen <i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "ultraje a rigor": [
+            [
+                "1.1099916"
+            ],
+            [
+                "rock, 80s, brazilian rock",
+                " <a href=\"https://open.spotify.com/search/results/ultraje a rigor\" target=\"_blank\">Listen <i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "ac/dc": [
+            [
+                "1.1068658"
+            ],
+            [
+                "hard rock, classic rock, rock",
+                " <a href=\"https://open.spotify.com/search/results/ac/dc\" target=\"_blank\">Listen <i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "tit\u00e3s": [
+            [
+                "1.1059947"
+            ],
+            [
+                "rock, brazilian, rock brasileiro",
+                " <a href=\"https://open.spotify.com/search/results/tit\u00e3s\" target=\"_blank\">Listen <i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "nando reis": [
+            [
+                "1.1059816"
+            ],
+            [
+                "mpb, rock, brazilian",
+                " <a href=\"https://open.spotify.com/search/results/nando reis\" target=\"_blank\">Listen <i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "nenhum de n\u00f3s": [
+            [
+                "1.0939815"
+            ],
+            [
+                "brazilian rock, rock, rock gaucho",
+                " <a href=\"https://open.spotify.com/search/results/nenhum de n\u00f3s\" target=\"_blank\">Listen <i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ]
+    }
+}

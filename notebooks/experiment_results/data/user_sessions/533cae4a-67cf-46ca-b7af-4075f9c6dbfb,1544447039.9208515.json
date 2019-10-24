@@ -1,0 +1,203 @@
+{
+    "username": "533cae4a-67cf-46ca-b7af-4075f9c6dbfb",
+    "ts": "1544447039.9208515",
+    "baseline": "True",
+    "final_profile": "292631",
+    "valid_tags": [
+        "rock",
+        "electronic",
+        "classic",
+        "electronica",
+        "classic"
+    ],
+    "invalid_tags": [
+        "electronica\r\n"
+    ],
+    "valid_artists": [
+        "k.flay",
+        "jay-z",
+        "k.flay",
+        "portugal. the man",
+        "k.flay"
+    ],
+    "invalid_artists": [
+        "lemaitre",
+        "lemaitre",
+        "k.flay\r\n ",
+        "",
+        "lemaitre",
+        "",
+        "lemaitre",
+        "m\u00f8"
+    ],
+    "tags_clicks": "4",
+    "artists_clicks": "10",
+    "zero_all_clicks": "0",
+    "boost_up_clicks": "0",
+    "boost_down_clicks": "0",
+    "clear_data_clicks": "0",
+    "plays_row": [
+        "4 strings",
+        "activa",
+        "apocalyptica",
+        "atlus games",
+        "beatdrop",
+        "bt",
+        "daft punk",
+        "darude",
+        "dj sammy",
+        "ferry corsten",
+        "filo & peri",
+        "fredrik miller",
+        "gabriel iglesias",
+        "hans zimmer",
+        "hellogoodbye",
+        "hirano yoshihisa",
+        "ian van dahl",
+        "john powell",
+        "jonathan larson",
+        "juno reactor",
+        "klaus badelt",
+        "linkin park",
+        "lisa miskovsky",
+        "nickelback",
+        "noam",
+        "o-zone",
+        "oceanlab",
+        "panic! at the disco",
+        "paramore",
+        "paul van dyk",
+        "system of a down",
+        "the killers",
+        "thomas newman",
+        "ti\u00ebsto"
+    ],
+    "plays_data": [
+        "99",
+        "59",
+        "58",
+        "121",
+        "61",
+        "74",
+        "187",
+        "61",
+        "65",
+        "57",
+        "67",
+        "95",
+        "62",
+        "137",
+        "61",
+        "55",
+        "99",
+        "62",
+        "74",
+        "70",
+        "86",
+        "332",
+        "328",
+        "82",
+        "41",
+        "73",
+        "95",
+        "41",
+        "254",
+        "218",
+        "55",
+        "64",
+        "72",
+        "57"
+    ],
+    "recommendations": {
+        "paul oakenfold": [
+            [
+                "1.0626163"
+            ],
+            [
+                "trance, electronic, dance",
+                " <a href=\"https://open.spotify.com/search/results/paul-oakenfold\" target=\"_blank\">Listen <i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "scooter": [
+            [
+                "1.0133555"
+            ],
+            [
+                "techno, dance, electronic",
+                " <a href=\"https://open.spotify.com/search/results/scooter\" target=\"_blank\">Listen <i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "armin van buuren": [
+            [
+                "0.96083444"
+            ],
+            [
+                "trance, electronic, progressive trance",
+                " <a href=\"https://open.spotify.com/search/results/armin-van-buuren\" target=\"_blank\">Listen <i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "atb": [
+            [
+                "0.9528038"
+            ],
+            [
+                "trance, electronic, dance",
+                " <a href=\"https://open.spotify.com/search/results/atb\" target=\"_blank\">Listen <i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "basshunter": [
+            [
+                "0.9444332"
+            ],
+            [
+                "dance, electronic, techno",
+                " <a href=\"https://open.spotify.com/search/results/basshunter\" target=\"_blank\">Listen <i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "above & beyond": [
+            [
+                "0.91949314"
+            ],
+            [
+                "trance, progressive trance, vocal trance",
+                " <a href=\"https://open.spotify.com/search/results/above-&-beyond\" target=\"_blank\">Listen <i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "fall out boy": [
+            [
+                "0.91495204"
+            ],
+            [
+                "pop punk, rock, emo",
+                " <a href=\"https://open.spotify.com/search/results/fall-out-boy\" target=\"_blank\">Listen <i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "my chemical romance": [
+            [
+                "0.9030244"
+            ],
+            [
+                "rock, emo, alternative",
+                " <a href=\"https://open.spotify.com/search/results/my-chemical-romance\" target=\"_blank\">Listen <i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "robert miles": [
+            [
+                "0.8958985"
+            ],
+            [
+                "trance, electronic, ambient",
+                " <a href=\"https://open.spotify.com/search/results/robert-miles\" target=\"_blank\">Listen <i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ],
+        "evanescence": [
+            [
+                "0.89533216"
+            ],
+            [
+                "rock, gothic rock, female vocalists",
+                " <a href=\"https://open.spotify.com/search/results/evanescence\" target=\"_blank\">Listen <i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+            ]
+        ]
+    }
+}

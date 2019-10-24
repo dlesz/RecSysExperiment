@@ -1,0 +1,163 @@
+{
+    "username": "3ae42cf7-d1ec-49c1-8625-cff5679a176a",
+    "ts": "1544369991.6171904",
+    "baseline": "False",
+    "final_profile": "20298",
+    "valid_tags": "",
+    "invalid_tags": "",
+    "valid_artists": [
+        "parkway drive",
+        "oceano"
+    ],
+    "invalid_artists": [],
+    "tags_clicks": "0",
+    "artists_clicks": "8",
+    "zero_all_clicks": "4",
+    "boost_up_clicks": "25",
+    "boost_down_clicks": "2",
+    "clear_data_clicks": "4",
+    "plays_row": [
+        "30 seconds to mars",
+        "a day to remember",
+        "a plea for purging",
+        "abhorrence",
+        "after the burial",
+        "as i lay dying",
+        "august burns red",
+        "bayside",
+        "bleeding through",
+        "bring me the horizon",
+        "chevelle",
+        "circa survive",
+        "deftones",
+        "dr. acula",
+        "emmure",
+        "for the fallen dreams",
+        "four letter lie",
+        "from a second story window",
+        "from the pawn",
+        "i killed the prom queen",
+        "impending doom",
+        "it prevails",
+        "killswitch engage",
+        "liferuiner",
+        "machine head",
+        "meshuggah",
+        "misery signals",
+        "my bitter end",
+        "mychildren mybride",
+        "oceano",
+        "on broken wings",
+        "parkway drive",
+        "poison the well",
+        "recon",
+        "remembering never",
+        "slipknot",
+        "stick to your guns",
+        "suffocation",
+        "suicide silence",
+        "the acacia strain",
+        "the contortionist",
+        "the devil wears prada",
+        "the miles between",
+        "the sleeping"
+    ],
+    "plays_data": [
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "800",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0"
+    ],
+    "recommendations": {
+        "all that remains": [
+            "0.71149323",
+            "metalcore, melodic death metal, metal",
+            " <a href=\"https://open.spotify.com/search/results/all that remains\" target=\"_blank\">Listen <i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+        ],
+        "caliban": [
+            "0.65587847",
+            "metalcore, hardcore, metal",
+            " <a href=\"https://open.spotify.com/search/results/caliban\" target=\"_blank\">Listen <i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+        ],
+        "heaven shall burn": [
+            "0.59437011",
+            "metalcore, melodic death metal, deathcore",
+            " <a href=\"https://open.spotify.com/search/results/heaven shall burn\" target=\"_blank\">Listen <i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+        ],
+        "atreyu": [
+            "0.57902243",
+            "metalcore, hardcore, metal",
+            " <a href=\"https://open.spotify.com/search/results/atreyu\" target=\"_blank\">Listen <i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+        ],
+        "haste the day": [
+            "0.56918007",
+            "metalcore, hardcore, christian",
+            " <a href=\"https://open.spotify.com/search/results/haste the day\" target=\"_blank\">Listen <i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+        ],
+        "lamb of god": [
+            "0.55304098",
+            "metalcore, groove metal, metal",
+            " <a href=\"https://open.spotify.com/search/results/lamb of god\" target=\"_blank\">Listen <i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+        ],
+        "36 crazyfists": [
+            "0.54490024",
+            "metalcore, nu metal, metal",
+            " <a href=\"https://open.spotify.com/search/results/36 crazyfists\" target=\"_blank\">Listen <i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+        ],
+        "trivium": [
+            "0.53538413",
+            "metalcore, thrash metal, metal",
+            " <a href=\"https://open.spotify.com/search/results/trivium\" target=\"_blank\">Listen <i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+        ],
+        "unearth": [
+            "0.53413225",
+            "metalcore, metal, hardcore",
+            " <a href=\"https://open.spotify.com/search/results/unearth\" target=\"_blank\">Listen <i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+        ],
+        "hatebreed": [
+            "0.52847858",
+            "hardcore, metalcore, metal",
+            " <a href=\"https://open.spotify.com/search/results/hatebreed\" target=\"_blank\">Listen <i class=\"fa fa-spotify fa-lg\"aria-hidden=\"true\"></></a>"
+        ]
+    }
+}
