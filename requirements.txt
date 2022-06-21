@@ -4,7 +4,7 @@ seaborn==0.9.0
 scipy==1.1.0
 pandas==0.23.4
 tables==3.5.2
-numpy==1.15.1
+numpy==1.22.0
 matplotlib==3.0.0
 h5py
 implicit
